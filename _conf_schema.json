@@ -1,0 +1,99 @@
+{
+  "enabled": {
+    "description": "基础 · 启用插件",
+    "type": "bool",
+    "default": true,
+    "hint": "允许模型在普通聊天中主动调用资料工具，无需固定查询命令。"
+  },
+  "attach_guidance": {
+    "description": "基础 · 相关话题自动检索指导",
+    "type": "bool",
+    "default": true,
+    "hint": "仅绝地潜兵相关消息附加指导：先核实官方简中名称、版本和来源，再结合实况与历史分析。"
+  },
+  "wiki_enabled": {
+    "description": "资料来源 · Wiki 搜索与阅读",
+    "type": "bool",
+    "default": true,
+    "hint": "优先读取同一 Wiki 的中文语言版本，英文版本补全资料；本地译名库缺项时仍继续查证。"
+  },
+  "news_enabled": {
+    "description": "资料来源 · 官方更新与补丁",
+    "type": "bool",
+    "default": true,
+    "hint": "读取官方 Steam 公告，按实际返回语言区分官方简中和英文回退；检索范围为最近最多100条公告。"
+  },
+  "war_enabled": {
+    "description": "银河战争 · 实时战况",
+    "type": "bool",
+    "default": true,
+    "hint": "读取 Companion 实况、主要指令、星球目录、战役事件和有向补给线。"
+  },
+  "history_enabled": {
+    "description": "银河战争 · 历史曲线",
+    "type": "bool",
+    "default": true,
+    "hint": "独立控制历史读取；星球最多近7天，事件及主要指令最多近48小时，以来源实际覆盖为准。"
+  },
+  "proxy_mode": {
+    "description": "网络 · 连接方式",
+    "type": "string",
+    "default": "system",
+    "options": [
+      "system",
+      "direct",
+      "custom"
+    ],
+    "hint": "system 使用 Windows 系统代理；direct 直连；custom 使用下方地址。不会修改系统代理。",
+    "labels": [
+      "系统代理（推荐）",
+      "直接连接",
+      "自定义代理"
+    ]
+  },
+  "proxy_url": {
+    "description": "网络 · 自定义代理地址",
+    "type": "string",
+    "default": "",
+    "hint": "例如 http://127.0.0.1:7890，仅 custom 模式使用。不包含用户名、密码或路径。",
+    "condition": {
+      "proxy_mode": "custom"
+    }
+  },
+  "timeout_seconds": {
+    "description": "资料查询时限（秒）",
+    "type": "int",
+    "default": 30,
+    "hint": "5–120 秒，限制网络请求和等待；工具整体额外预留5秒用于处理资料。",
+    "collapsed": true,
+    "slider": {
+      "min": 5,
+      "max": 120,
+      "step": 1
+    }
+  },
+  "max_concurrency": {
+    "description": "并行资料请求上限",
+    "type": "int",
+    "default": 3,
+    "hint": "1–3，同时限制连接与等待，减少来源负载。",
+    "collapsed": true,
+    "slider": {
+      "min": 1,
+      "max": 3,
+      "step": 1
+    }
+  },
+  "cache_max_entries": {
+    "description": "内存缓存条目上限",
+    "type": "int",
+    "default": 128,
+    "hint": "1–128，总缓存最多32 MiB。保留原始获取时间；失败不会冒充最新数据。",
+    "collapsed": true,
+    "slider": {
+      "min": 1,
+      "max": 128,
+      "step": 1
+    }
+  }
+}

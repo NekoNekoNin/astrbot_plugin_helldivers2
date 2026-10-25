@@ -1,0 +1,2120 @@
+{
+  "schema_version": 1,
+  "version": "2026.10.24.1",
+  "verified_at": "2026-10-24",
+  "note": "仅将已核对的 PlayStation 简中正文或 Steam 官方公告 language=6 记为官简；社区别名、繁中及缺证名称不冒充官简。该表是有界证据索引，不是全游戏本地化全集；装备数值须另查当前版本。",
+  "sources": {
+    "ps-overview": {
+      "url": "https://www.playstation.com/zh-hans-hk/games/helldivers-2/",
+      "english_url": "https://www.playstation.com/en-us/games/helldivers-2/",
+      "publisher": "PlayStation",
+      "language": "zh-Hans",
+      "verified_at": "2026-10-24",
+      "title": "Helldivers 2 — 官方简中介绍与敌人介绍",
+      "version_note": "Official website text observed on this date; not a complete game localization dump."
+    },
+    "ps-guide": {
+      "url": "https://www.playstation.com/zh-hans-hk/editorial/a-beginner-s-guide-to-helldivers-2/",
+      "english_url": "https://www.playstation.com/en-us/editorial/a-beginner-s-guide-to-helldivers-2/",
+      "publisher": "PlayStation",
+      "language": "zh-Hans",
+      "verified_at": "2026-10-24",
+      "title": "Helldivers 2 — 官方简中新手指引"
+    },
+    "ps-updates": {
+      "url": "https://www.playstation.com/zh-hans-hk/games/helldivers-2/helldivers-2-update-summary/",
+      "english_url": "https://www.playstation.com/en-us/games/helldivers-2/helldivers-2-update-summary/",
+      "publisher": "PlayStation",
+      "language": "zh-Hans",
+      "verified_at": "2026-10-24",
+      "title": "Helldivers 2 — 官方简中革新历程"
+    },
+    "ps-news": {
+      "url": "https://www.playstation.com/zh-hans-hk/games/helldivers-2/latest-news-and-updates/",
+      "english_url": "https://www.playstation.com/en-us/games/helldivers-2/latest-news-and-updates/",
+      "publisher": "PlayStation",
+      "language": "zh-Hans",
+      "verified_at": "2026-10-24",
+      "title": "Helldivers 2 — 官方简中最新消息",
+      "version_note": "Locales may update at different times; match by explicit names/model codes, never position."
+    },
+    "steam-715666559007196081": {
+      "url": "https://store.steampowered.com/news/app/553850/view/715666559007196081?l=schinese",
+      "english_url": "https://store.steampowered.com/news/app/553850/view/715666559007196081?l=english",
+      "publisher": "Arrowhead Game Studios",
+      "language": "zh-Hans",
+      "steam_language_id": 6,
+      "verified_at": "2026-10-24",
+      "title": "自由入寂：7.2.0",
+      "published_at": "2026-10-20T09:01:51+00:00",
+      "content_sha256": "655c50323ebff519c80bbcdb57deb2cb7bdf0518465c8c94526fed92f5001693",
+      "api_url": "https://store.steampowered.com/events/ajaxgetpartnereventspageable/?clan_accountid=44156989&offset=0&count=50&lang_list=6_0&l=schinese",
+      "version_note": "Original official announcement_body.language=6; matched to language=0 by event gid and exact weapon model."
+    },
+    "steam-668376859863416942": {
+      "url": "https://store.steampowered.com/news/app/553850/view/668376859863416942?l=schinese",
+      "english_url": "https://store.steampowered.com/news/app/553850/view/668376859863416942?l=english",
+      "publisher": "Arrowhead Game Studios",
+      "language": "zh-Hans",
+      "steam_language_id": 6,
+      "verified_at": "2026-10-24",
+      "title": "自由入寂：7.1.0",
+      "published_at": "2026-09-22T09:00:27+00:00",
+      "content_sha256": "0da33ed84cf6bc5f567f9434aa4c38aa5da11c73d56d6c0a1054576c1c96091d",
+      "api_url": "https://store.steampowered.com/events/ajaxgetpartnereventspageable/?clan_accountid=44156989&offset=0&count=50&lang_list=6_0&l=schinese",
+      "version_note": "Original official announcement_body.language=6; matched to language=0 by event gid and exact weapon model."
+    },
+    "steam-703276586134143012": {
+      "url": "https://store.steampowered.com/news/app/553850/view/703276586134143012?l=schinese",
+      "english_url": "https://store.steampowered.com/news/app/553850/view/703276586134143012?l=english",
+      "publisher": "Arrowhead Game Studios",
+      "language": "zh-Hans",
+      "steam_language_id": 6,
+      "verified_at": "2026-10-24",
+      "title": "自由入寂：7.0.0",
+      "published_at": "2026-08-12T09:01:30+00:00",
+      "content_sha256": "5ecdb1a623d625ded8332aa97b3a831fa48ebc8fe3d502496cc2806a361fb5cb",
+      "api_url": "https://store.steampowered.com/events/ajaxgetpartnereventspageable/?clan_accountid=44156989&offset=0&count=50&lang_list=6_0&l=schinese",
+      "version_note": "Original official announcement_body.language=6; matched to language=0 by event gid and exact weapon model."
+    },
+    "steam-541136853162525650": {
+      "url": "https://store.steampowered.com/news/app/553850/view/541136853162525650?l=schinese",
+      "english_url": "https://store.steampowered.com/news/app/553850/view/541136853162525650?l=english",
+      "publisher": "Arrowhead Game Studios",
+      "language": "zh-Hans",
+      "steam_language_id": 6,
+      "verified_at": "2026-10-24",
+      "title": "铁腕威压：6.2.2",
+      "published_at": "2026-04-28T09:01:36+00:00",
+      "content_sha256": "b9d6514131e0bfeb2880404731f5c44564b3c9ed7485334a07798b801628149b",
+      "api_url": "https://store.steampowered.com/events/ajaxgetpartnereventspageable/?clan_accountid=44156989&offset=0&count=50&lang_list=6_0&l=schinese",
+      "version_note": "Original official announcement_body.language=6; matched to language=0 by event gid and exact weapon model."
+    },
+    "steam-491583942944621274": {
+      "url": "https://store.steampowered.com/news/app/553850/view/491583942944621274?l=schinese",
+      "english_url": "https://store.steampowered.com/news/app/553850/view/491583942944621274?l=english",
+      "publisher": "Arrowhead Game Studios",
+      "language": "zh-Hans",
+      "steam_language_id": 6,
+      "verified_at": "2026-10-24",
+      "title": "正义未至之境：5.0.0版本",
+      "published_at": "2025-12-02T10:09:05+00:00",
+      "content_sha256": "d40f34be2c2f26e981ed11bc5e20492e587389b2ac944b20a669654b1910c6e3",
+      "api_url": "https://store.steampowered.com/events/ajaxgetpartnereventspageable/?clan_accountid=44156989&offset=0&count=50&lang_list=6_0&l=schinese",
+      "version_note": "Original official announcement_body.language=6; matched to language=0 by event gid and exact weapon model."
+    },
+    "steam-604173306943244176": {
+      "url": "https://store.steampowered.com/news/app/553850/view/604173306943244176?l=schinese",
+      "english_url": "https://store.steampowered.com/news/app/553850/view/604173306943244176?l=english",
+      "publisher": "Arrowhead Game Studios",
+      "language": "zh-Hans",
+      "steam_language_id": 6,
+      "verified_at": "2026-10-24",
+      "title": "《Helldivers 2》“蟒蛇突击兵”尊享战争债券将于12月2日空降",
+      "published_at": "2025-11-25T14:06:26+00:00",
+      "content_sha256": "7ef0759250de4e301d4727f5b0eb1222b23d2b6e7ad60815faf937b68d09b430",
+      "api_url": "https://store.steampowered.com/events/ajaxgetpartnereventspageable/?clan_accountid=44156989&offset=0&count=50&lang_list=6_0&l=schinese",
+      "version_note": "Original official announcement_body.language=6; matched to language=0 by event gid and exact weapon model."
+    }
+  },
+  "items": [
+    {
+      "english": "Illuminate",
+      "wiki_title": "Illuminate",
+      "official_label": "光能者",
+      "verified": true,
+      "category": "faction",
+      "aliases": [
+        "The Illuminate"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Terminids",
+      "wiki_title": "Terminids",
+      "official_label": "终结族",
+      "verified": true,
+      "category": "faction",
+      "aliases": [
+        "Terminid"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Automatons",
+      "wiki_title": "Automatons",
+      "official_label": "机器人",
+      "verified": true,
+      "category": "faction",
+      "aliases": [
+        "Automaton",
+        "The Automaton Collective"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Voteless",
+      "wiki_title": "Voteless",
+      "official_label": "无票者",
+      "verified": true,
+      "category": "enemy",
+      "aliases": [
+        "The Voteless"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Watcher",
+      "wiki_title": "Watcher",
+      "official_label": "守望者",
+      "verified": true,
+      "category": "enemy",
+      "aliases": [
+        "The Watcher"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Overseer",
+      "wiki_title": "Overseer",
+      "official_label": "监视者",
+      "verified": true,
+      "category": "enemy",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Harvester",
+      "wiki_title": "Harvester",
+      "official_label": "猎杀器",
+      "verified": true,
+      "category": "enemy",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Scavenger",
+      "wiki_title": "Scavenger",
+      "official_label": "食腐虫",
+      "verified": true,
+      "category": "enemy",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Warrior",
+      "wiki_title": "Warrior",
+      "official_label": "武斗虫",
+      "verified": true,
+      "category": "enemy",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Hunter",
+      "wiki_title": "Hunter",
+      "official_label": "追猎虫",
+      "verified": true,
+      "category": "enemy",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Stalker",
+      "wiki_title": "Stalker",
+      "official_label": "追踪虫",
+      "verified": true,
+      "category": "enemy",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Bile Spewer",
+      "wiki_title": "Bile Spewer",
+      "official_label": "胆汁喷涌虫",
+      "verified": true,
+      "category": "enemy",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Bile Titan",
+      "wiki_title": "Bile Titan",
+      "official_label": "吐酸泰坦",
+      "verified": true,
+      "category": "enemy",
+      "aliases": [],
+      "community_aliases": [
+        "泰坦"
+      ],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Charger",
+      "wiki_title": "Charger",
+      "official_label": "强袭虫",
+      "verified": true,
+      "category": "enemy",
+      "aliases": [],
+      "community_aliases": [
+        "冲锋虫"
+      ],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Brood Commander",
+      "wiki_title": "Brood Commander",
+      "official_label": "虫族指挥官",
+      "verified": true,
+      "category": "enemy",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Dragonroach",
+      "wiki_title": "Dragonroach",
+      "official_label": "龙蟑",
+      "verified": true,
+      "category": "enemy",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Rupture Charger",
+      "wiki_title": "Rupture Charger",
+      "official_label": "裂地冲锋兽",
+      "verified": true,
+      "category": "enemy",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Rupture Warrior",
+      "wiki_title": "Rupture Warrior",
+      "official_label": "裂地战士",
+      "verified": true,
+      "category": "enemy",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Rupture Spewer",
+      "wiki_title": "Rupture Spewer",
+      "official_label": "爆裂喷涌虫",
+      "verified": true,
+      "category": "enemy",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Cyborg Vox Engine",
+      "wiki_title": "Cyborg Vox Engine",
+      "official_label": "噪轰引擎生化人",
+      "verified": true,
+      "category": "enemy",
+      "aliases": [
+        "Vox Engine"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Cyborg Radical",
+      "wiki_title": "Cyborg Radical",
+      "official_label": "激进先锋生化人",
+      "verified": true,
+      "category": "enemy",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Cyborg Agitator",
+      "wiki_title": "Cyborg Agitator",
+      "official_label": "惑乱者生化人",
+      "verified": true,
+      "category": "enemy",
+      "aliases": [
+        "Agitator"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Trooper",
+      "wiki_title": "Trooper",
+      "official_label": "装甲兵",
+      "verified": true,
+      "category": "enemy",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Raider",
+      "wiki_title": "Raider",
+      "official_label": "劫掠者",
+      "verified": true,
+      "category": "enemy",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Marauder",
+      "wiki_title": "Marauder",
+      "official_label": "奇袭者",
+      "verified": true,
+      "category": "enemy",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Commissar",
+      "wiki_title": "Commissar",
+      "official_label": "机械统帅",
+      "verified": true,
+      "category": "enemy",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Scout Strider",
+      "wiki_title": "Scout Strider",
+      "official_label": "侦察纵步者",
+      "verified": true,
+      "category": "enemy",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Berserker",
+      "wiki_title": "Berserker",
+      "official_label": "狂暴者",
+      "verified": true,
+      "category": "enemy",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Devastator",
+      "wiki_title": "Devastator",
+      "official_label": "蹂躏者",
+      "verified": true,
+      "category": "enemy",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Hulk",
+      "wiki_title": "Hulk",
+      "official_label": "巨型者",
+      "verified": true,
+      "category": "enemy",
+      "aliases": [],
+      "community_aliases": [
+        "浩克"
+      ],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Tank",
+      "wiki_title": "Tank",
+      "official_label": "坦克",
+      "verified": true,
+      "category": "enemy",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Dropship",
+      "wiki_title": "Dropship",
+      "official_label": "运输舰",
+      "verified": true,
+      "category": "enemy",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Super Earth",
+      "wiki_title": "Super Earth",
+      "official_label": "超级地球",
+      "verified": true,
+      "category": "planet",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Helldivers",
+      "wiki_title": "Helldivers",
+      "official_label": "绝地潜兵",
+      "verified": true,
+      "category": "general",
+      "aliases": [
+        "Helldiver"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Managed Democracy",
+      "wiki_title": "Managed Democracy",
+      "official_label": "管理式民主",
+      "verified": true,
+      "category": "general",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Warbonds",
+      "wiki_title": "Warbonds",
+      "official_label": "战争债券",
+      "verified": true,
+      "category": "general",
+      "aliases": [
+        "Warbond"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Stratagems",
+      "wiki_title": "Stratagems",
+      "official_label": "战略配备",
+      "verified": true,
+      "category": "general",
+      "aliases": [
+        "Stratagem"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Hellpod",
+      "wiki_title": "Hellpod",
+      "official_label": "绝地喷射舱",
+      "verified": true,
+      "category": "general",
+      "aliases": [
+        "Hellpods"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Super Credits",
+      "wiki_title": "Super Credits",
+      "official_label": "超级货币",
+      "verified": true,
+      "category": "currency",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Medals",
+      "wiki_title": "Medals",
+      "official_label": "奖章",
+      "verified": true,
+      "category": "currency",
+      "aliases": [
+        "Medal"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "MP-98 Knight",
+      "wiki_title": "MP-98 Knight",
+      "official_label": "MP-98“骑士”",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "MP-98",
+        "骑士"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "DP-53 Savior of the Free",
+      "wiki_title": "DP-53 Savior of the Free",
+      "official_label": "DP-53“自由救星”",
+      "verified": true,
+      "category": "armor",
+      "aliases": [
+        "DP-53",
+        "自由救星"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Will of the People",
+      "wiki_title": "Will of the People",
+      "official_label": "人民的意志",
+      "verified": true,
+      "category": "cape",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-overview"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "JAR-5 Dominator",
+      "wiki_title": "JAR-5 Dominator",
+      "official_label": "JAR-5“主宰”",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "JAR-5",
+        "主宰"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-guide"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "LAS-16 Sickle",
+      "wiki_title": "LAS-16 Sickle",
+      "official_label": "LAS-16“镰刀”",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "LAS-16",
+        "镰刀"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-guide"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Grenade Pistol",
+      "wiki_title": "GP-31 Grenade Pistol",
+      "official_label": "榴弹手枪",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "GP-31",
+        "GP-31 Grenade Pistol"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-guide"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Incendiary Impact Grenade",
+      "wiki_title": "G-13 Incendiary Impact",
+      "official_label": "燃烧冲击弹",
+      "verified": true,
+      "category": "grenade",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-guide"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "K-2 Throwing Knife",
+      "wiki_title": "K-2 Throwing Knife",
+      "official_label": "K-2“飞刀”",
+      "verified": true,
+      "category": "grenade",
+      "aliases": [
+        "K-2",
+        "飞刀"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-guide"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "CM-09 Bonesnapper",
+      "wiki_title": "CM-09 Bonesnapper",
+      "official_label": "CM-09“碎骨杀手”",
+      "verified": true,
+      "category": "armor",
+      "aliases": [
+        "CM-09",
+        "碎骨杀手"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-guide"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Helldivers Mobilize!",
+      "wiki_title": "Helldivers Mobilize!",
+      "official_label": "绝地潜兵总动员！",
+      "verified": true,
+      "category": "warbond",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-guide"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Major Orders",
+      "wiki_title": "Major Orders",
+      "official_label": "重要指令",
+      "verified": true,
+      "category": "war",
+      "aliases": [
+        "Major Order"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-guide"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Personal Orders",
+      "wiki_title": "Personal Orders",
+      "official_label": "个人指令",
+      "verified": true,
+      "category": "war",
+      "aliases": [
+        "Personal Order"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-guide"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Requisition Slips",
+      "wiki_title": "Requisition Slips",
+      "official_label": "申购点",
+      "verified": true,
+      "category": "currency",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-guide"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Eagle Stratagems",
+      "wiki_title": "Stratagems",
+      "official_label": "飞鹰战略配备",
+      "verified": true,
+      "category": "stratagem_category",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-guide"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Orbital Stratagems",
+      "wiki_title": "Stratagems",
+      "official_label": "轨道战略配备",
+      "verified": true,
+      "category": "stratagem_category",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-guide"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Backpack Stratagems",
+      "wiki_title": "Stratagems",
+      "official_label": "背包战略配备",
+      "verified": true,
+      "category": "stratagem_category",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-guide"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Support Weapons",
+      "wiki_title": "Stratagems",
+      "official_label": "支援武器",
+      "verified": true,
+      "category": "stratagem_category",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-guide"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Defensive Stratagems",
+      "wiki_title": "Stratagems",
+      "official_label": "防御战略配备",
+      "verified": true,
+      "category": "stratagem_category",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-guide"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Vehicle Stratagems",
+      "wiki_title": "Stratagems",
+      "official_label": "载具战略配备",
+      "verified": true,
+      "category": "stratagem_category",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-guide"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Borderline Justice",
+      "wiki_title": "Borderline Justice",
+      "official_label": "临界正义",
+      "verified": true,
+      "category": "warbond",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-updates"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Servants of Freedom",
+      "wiki_title": "Servants of Freedom",
+      "official_label": "自由公仆",
+      "verified": true,
+      "category": "warbond",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-updates"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Urban Legends",
+      "wiki_title": "Urban Legends",
+      "official_label": "都市传奇",
+      "verified": true,
+      "category": "warbond",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-updates"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Truth Enforcers",
+      "wiki_title": "Truth Enforcers",
+      "official_label": "真理执行者",
+      "verified": true,
+      "category": "warbond",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-updates"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Chemical Agents",
+      "wiki_title": "Chemical Agents",
+      "official_label": "化学专家",
+      "verified": true,
+      "category": "warbond",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-updates"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Freedom's Flame",
+      "wiki_title": "Freedom's Flame",
+      "official_label": "自由烈焰",
+      "verified": true,
+      "category": "warbond",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-updates"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Viper Commandos",
+      "wiki_title": "Viper Commandos",
+      "official_label": "毒蛇突击兵",
+      "verified": true,
+      "category": "warbond",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-updates"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Polar Patriots",
+      "wiki_title": "Polar Patriots",
+      "official_label": "极地爱国者",
+      "verified": true,
+      "category": "warbond",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-updates"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Democratic Detonation",
+      "wiki_title": "Democratic Detonation",
+      "official_label": "民主爆破",
+      "verified": true,
+      "category": "warbond",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-updates"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Cutting Edge",
+      "wiki_title": "Cutting Edge",
+      "official_label": "遥遥领先",
+      "verified": true,
+      "category": "warbond",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-updates"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Steeled Veterans",
+      "wiki_title": "Steeled Veterans",
+      "official_label": "铁血老兵",
+      "verified": true,
+      "category": "warbond",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-updates"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Quasar Cannon",
+      "wiki_title": "LAS-99 Quasar Cannon",
+      "official_label": "类星体加农炮",
+      "verified": true,
+      "category": "stratagem",
+      "aliases": [
+        "LAS-99",
+        "LAS-99 Quasar Cannon"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-updates"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Airburst Rocket Launcher",
+      "wiki_title": "RL-77 Airburst Rocket Launcher",
+      "official_label": "空爆火箭弹发射器",
+      "verified": true,
+      "category": "stratagem",
+      "aliases": [
+        "RL-77",
+        "RL-77 Airburst Rocket Launcher"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-updates"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Commando Launcher",
+      "wiki_title": "MLS-4X Commando",
+      "official_label": "“突击兵”发射器",
+      "verified": true,
+      "category": "stratagem",
+      "aliases": [
+        "MLS-4X",
+        "MLS-4X Commando"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-updates"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "StA-X3 W.A.S.P. Launcher",
+      "wiki_title": "StA-X3 W.A.S.P. Launcher",
+      "official_label": "StA-X3 W.A.S.P.发射器",
+      "verified": true,
+      "category": "stratagem",
+      "aliases": [
+        "StA-X3"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-updates"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Patriot Exosuit",
+      "wiki_title": "EXO-45 Patriot Exosuit",
+      "official_label": "“爱国者”外骨骼装甲",
+      "verified": true,
+      "category": "stratagem",
+      "aliases": [
+        "EXO-45",
+        "EXO-45 Patriot Exosuit"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-updates"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Emancipator Exosuit",
+      "wiki_title": "EXO-49 Emancipator Exosuit",
+      "official_label": "“解放者”外骨骼装甲",
+      "verified": true,
+      "category": "stratagem",
+      "aliases": [
+        "EXO-49",
+        "EXO-49 Emancipator Exosuit"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-updates"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Fast Recon Vehicle",
+      "wiki_title": "M-102 Fast Recon Vehicle",
+      "official_label": "快速侦察载具",
+      "verified": true,
+      "category": "stratagem",
+      "aliases": [
+        "FRV",
+        "M-102 Fast Recon Vehicle"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-updates"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Meridia",
+      "wiki_title": "Meridia",
+      "official_label": "默里迪亚",
+      "verified": true,
+      "category": "planet",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-updates"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Super Helldive",
+      "wiki_title": "Difficulty",
+      "official_label": "超级绝地俯冲",
+      "verified": true,
+      "category": "difficulty",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-updates"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Galactic War",
+      "wiki_title": "Galactic War",
+      "official_label": "星系战争",
+      "verified": true,
+      "category": "war",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-updates"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Ironclad Democracy",
+      "wiki_title": "Ironclad Democracy",
+      "official_label": "铁甲民主",
+      "verified": true,
+      "category": "warbond",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-news"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Exo Experts",
+      "wiki_title": "Exo Experts",
+      "official_label": "外骨骼装甲专家",
+      "verified": true,
+      "category": "warbond",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-news"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Entrenched Division",
+      "wiki_title": "Entrenched Division",
+      "official_label": "堑壕之师",
+      "verified": true,
+      "category": "warbond",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-news"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Siege Breakers",
+      "wiki_title": "Siege Breakers",
+      "official_label": "破围先锋",
+      "verified": true,
+      "category": "warbond",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-news"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Redacted Regiment",
+      "wiki_title": "Redacted Regiment",
+      "official_label": "绝密军团",
+      "verified": true,
+      "category": "warbond",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-news"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Python Commandos",
+      "wiki_title": "Python Commandos",
+      "official_label": "蟒蛇突击兵",
+      "verified": true,
+      "category": "warbond",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-news"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Devoid of Liberty",
+      "wiki_title": "Devoid of Liberty",
+      "official_label": "自由入寂",
+      "verified": true,
+      "category": "update",
+      "aliases": [],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-news"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "AR-11 Arbitrator",
+      "wiki_title": "AR-11 Arbitrator",
+      "official_label": "AR-11“仲裁者”",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "AR-11",
+        "仲裁者"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-news"
+      ],
+      "verified_at": "2026-10-24",
+      "english_evidence_url": "https://store.steampowered.com/news/app/553850/view/672879825739842476?l=english"
+    },
+    {
+      "english": "GL-15 Evictor",
+      "wiki_title": "GL-15 Evictor",
+      "official_label": "GL-15“驱逐者”",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "GL-15",
+        "驱逐者"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-news"
+      ],
+      "verified_at": "2026-10-24",
+      "english_evidence_url": "https://store.steampowered.com/news/app/553850/view/672879825739842476?l=english"
+    },
+    {
+      "english": "BFM-16 Tanker",
+      "wiki_title": "BFM-16 Tanker",
+      "official_label": "BFM-16“坦克手”",
+      "verified": true,
+      "category": "armor",
+      "aliases": [
+        "BFM-16"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-news"
+      ],
+      "verified_at": "2026-10-24",
+      "english_evidence_url": "https://store.steampowered.com/news/app/553850/view/672879825739842476?l=english"
+    },
+    {
+      "english": "BFM-220 Ironclad",
+      "wiki_title": "BFM-220 Ironclad",
+      "official_label": "BFM-220“铁甲”",
+      "verified": true,
+      "category": "armor",
+      "aliases": [
+        "BFM-220"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "ps-news"
+      ],
+      "verified_at": "2026-10-24",
+      "english_evidence_url": "https://store.steampowered.com/news/app/553850/view/672879825739842476?l=english"
+    },
+    {
+      "english": "MA5C Assault Rifle",
+      "wiki_title": "MA5C Assault Rifle",
+      "official_label": "MA5C突击步枪",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "MA5C"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-715666559007196081"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "StA-52 Assault Rifle",
+      "wiki_title": "StA-52 Assault Rifle",
+      "official_label": "StA-52突击步枪",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "StA-52"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-715666559007196081"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "StA-11 SMG",
+      "wiki_title": "StA-11 SMG",
+      "official_label": "StA-11冲锋枪",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "StA-11"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-715666559007196081"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "PLAS-39 Accelerator Rifle",
+      "wiki_title": "PLAS-39 Accelerator Rifle",
+      "official_label": "PLAS-39加速步枪",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "PLAS-39",
+        "加速步枪"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-715666559007196081"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "LAS-17 Double-Edge Sickle",
+      "wiki_title": "LAS-17 Double-Edge Sickle",
+      "official_label": "LAS-17“双刃镰刀”",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "LAS-17",
+        "双刃镰刀"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-715666559007196081"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "SG-8 Punisher",
+      "wiki_title": "SG-8 Punisher",
+      "official_label": "SG-8“制裁者”",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "SG-8",
+        "制裁者"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-715666559007196081"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "SG-225 Breaker",
+      "wiki_title": "SG-225 Breaker",
+      "official_label": "SG-225“破裂者”",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "SG-225",
+        "破裂者"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-715666559007196081"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "SG-225SP Breaker Spray&Pray",
+      "wiki_title": "SG-225SP Breaker Spray&Pray",
+      "official_label": "SG-225SP千发百中“破裂者”",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "SG-225SP",
+        "千发百中破裂者"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-715666559007196081"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "M-1000 Maxigun",
+      "wiki_title": "M-1000 Maxigun",
+      "official_label": "M-1000重装机枪",
+      "verified": true,
+      "category": "stratagem",
+      "aliases": [
+        "M-1000",
+        "重装机枪"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-715666559007196081"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "CQC-20 Breaching Hammer",
+      "wiki_title": "CQC-20 Breaching Hammer",
+      "official_label": "CQC-20破门锤",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "CQC-20",
+        "破门锤"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-715666559007196081"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "A/FLAM-40 Flame Sentry",
+      "wiki_title": "A/FLAM-40 Flame Sentry",
+      "official_label": "A/FLAM-40火焰喷射哨戒炮",
+      "verified": true,
+      "category": "stratagem",
+      "aliases": [
+        "A/FLAM-40",
+        "火焰喷射哨戒炮"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-715666559007196081"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "R-2124 Constitution",
+      "wiki_title": "R-2124 Constitution",
+      "official_label": "R-2124“宪法”",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "R-2124",
+        "宪法"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-703276586134143012"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "AR-23 Liberator",
+      "wiki_title": "AR-23 Liberator",
+      "official_label": "AR-23“解放者”",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "AR-23",
+        "解放者"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-703276586134143012"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "AR-23P Liberator Penetrator",
+      "wiki_title": "AR-23P Liberator Penetrator",
+      "official_label": "AR-23P穿甲“解放者”",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "AR-23P",
+        "穿甲解放者"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-703276586134143012"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "AR-23C Liberator Concussive",
+      "wiki_title": "AR-23C Liberator Concussive",
+      "official_label": "AR-23C震荡“解放者”",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "AR-23C",
+        "震荡解放者"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-703276586134143012"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "AR-23A Liberator Carbine",
+      "wiki_title": "AR-23A Liberator Carbine",
+      "official_label": "AR-23A“解放者”卡宾枪",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "AR-23A",
+        "解放者卡宾枪"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-703276586134143012"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "AR-59 Suppressor",
+      "wiki_title": "AR-59 Suppressor",
+      "official_label": "AR-59“消音器”",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "AR-59",
+        "消音器"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-703276586134143012"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "SMG-37 Defender",
+      "wiki_title": "SMG-37 Defender",
+      "official_label": "SMG-37“防卫者”",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "SMG-37",
+        "防卫者"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-703276586134143012"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "SMG-72 Pummeler",
+      "wiki_title": "SMG-72 Pummeler",
+      "official_label": "SMG-72“暴击斗士”",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "SMG-72",
+        "暴击斗士"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-703276586134143012"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "SMG/FLAM-34 Stoker",
+      "wiki_title": "SMG/FLAM-34 Stoker",
+      "official_label": "SMG/FLAM-34“司炉者”",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "SMG/FLAM-34",
+        "司炉者"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-703276586134143012"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "SG-225IE Breaker Incendiary",
+      "wiki_title": "SG-225IE Breaker Incendiary",
+      "official_label": "SG-225IE高燃“破裂者”",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "SG-225IE",
+        "高燃破裂者"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-703276586134143012"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "P-113 Verdict",
+      "wiki_title": "P-113 Verdict",
+      "official_label": "P-113“裁决”",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "P-113",
+        "裁决"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-703276586134143012"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "M6C/SOCOM Pistol",
+      "wiki_title": "M6C/SOCOM Pistol",
+      "official_label": "M6C/特种作战手枪",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "M6C"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-703276586134143012"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "P-19 Redeemer",
+      "wiki_title": "P-19 Redeemer",
+      "official_label": "P-19“救世主”",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "P-19",
+        "救世主"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-703276586134143012"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "MD-17 Anti-Tank Mines",
+      "wiki_title": "MD-17 Anti-Tank Mines",
+      "official_label": "MD-17反坦克地雷",
+      "verified": true,
+      "category": "stratagem",
+      "aliases": [
+        "MD-17",
+        "反坦克地雷"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-703276586134143012"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "CQC-30 Stun Baton",
+      "wiki_title": "CQC-30 Stun Baton",
+      "official_label": "CQC-30眩晕短棍",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "CQC-30",
+        "眩晕短棍"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-541136853162525650"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "CQC-19 Stun Lance",
+      "wiki_title": "CQC-19 Stun Lance",
+      "official_label": "CQC-19眩晕长矛",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "CQC-19",
+        "眩晕长矛"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-541136853162525650"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "CQC-2 Saber",
+      "wiki_title": "CQC-2 Saber",
+      "official_label": "CQC-2军刀",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "CQC-2",
+        "军刀"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-541136853162525650"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "CQC-5 Combat Hatchet",
+      "wiki_title": "CQC-5 Combat Hatchet",
+      "official_label": "CQC-5战斗短柄斧",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "CQC-5",
+        "战斗短柄斧"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-541136853162525650"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "CQC-73 Entrenchment Tool",
+      "wiki_title": "CQC-73 Entrenchment Tool",
+      "official_label": "CQC-73堑壕工具",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "CQC-73",
+        "堑壕工具"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-541136853162525650"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "CQC-9 Defoliation Tool",
+      "wiki_title": "CQC-9 Defoliation Tool",
+      "official_label": "CQC-9除叶工具",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "CQC-9",
+        "除叶工具"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-541136853162525650"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "CQC-1 One True Flag",
+      "wiki_title": "CQC-1 One True Flag",
+      "official_label": "CQC-1唯一真旗",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "CQC-1",
+        "唯一真旗"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-541136853162525650"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "SH-20 Ballistic Shield Backpack",
+      "wiki_title": "SH-20 Ballistic Shield Backpack",
+      "official_label": "SH-20防弹护盾背包",
+      "verified": true,
+      "category": "stratagem",
+      "aliases": [
+        "SH-20",
+        "防弹护盾背包"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-541136853162525650"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "FAF-14 Spear",
+      "wiki_title": "FAF-14 Spear",
+      "official_label": "FAF-14飞矛",
+      "verified": true,
+      "category": "stratagem",
+      "aliases": [
+        "FAF-14",
+        "飞矛"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-541136853162525650"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "A/LAS-98 Laser Sentry",
+      "wiki_title": "A/LAS-98 Laser Sentry",
+      "official_label": "A/LAS-98 激光哨戒炮",
+      "verified": true,
+      "category": "stratagem",
+      "aliases": [
+        "A/LAS-98",
+        "激光哨戒炮"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-541136853162525650"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "TX-41 Sterilizer",
+      "wiki_title": "TX-41 Sterilizer",
+      "official_label": "TX-41“灭菌器”",
+      "verified": true,
+      "category": "stratagem",
+      "aliases": [
+        "TX-41",
+        "灭菌器"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-541136853162525650"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "EXO-51 Lumberer Exosuit",
+      "wiki_title": "EXO-51 Lumberer Exosuit",
+      "official_label": "EXO-51“伐木者”外骨骼装甲",
+      "verified": true,
+      "category": "stratagem",
+      "aliases": [
+        "EXO-51",
+        "伐木者"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-715666559007196081"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "EXO-55 Breakthrough Exosuit",
+      "wiki_title": "EXO-55 Breakthrough Exosuit",
+      "official_label": "EXO-55“突破”外骨骼装甲",
+      "verified": true,
+      "category": "stratagem",
+      "aliases": [
+        "EXO-55"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-715666559007196081"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "AR/GL-21 One-Two",
+      "wiki_title": "AR/GL-21 One-Two",
+      "official_label": "AR/GL-21“幺二”",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "AR/GL-21",
+        "幺二"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-668376859863416942"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "LAS-13 Trident",
+      "wiki_title": "LAS-13 Trident",
+      "official_label": "LAS-13“三叉戟”",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "LAS-13",
+        "三叉戟"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-668376859863416942"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "GL-52 De-Escalator",
+      "wiki_title": "GL-52 De-Escalator",
+      "official_label": "GL-52“缓和使者”",
+      "verified": true,
+      "category": "weapon",
+      "aliases": [
+        "GL-52",
+        "缓和使者"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-668376859863416942"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "AX/FLAM-75 Guard Dog Hot Dog",
+      "wiki_title": "AX/FLAM-75 Guard Dog Hot Dog",
+      "official_label": "AX/FLAM-75“护卫犬”热狗",
+      "verified": true,
+      "category": "stratagem",
+      "aliases": [
+        "AX/FLAM-75",
+        "护卫犬热狗"
+      ],
+      "community_aliases": [],
+      "source_ids": [
+        "steam-604173306943244176"
+      ],
+      "verified_at": "2026-10-24"
+    },
+    {
+      "english": "Humans",
+      "wiki_title": "Super Earth",
+      "official_label": null,
+      "verified": false,
+      "category": "unverified",
+      "aliases": [],
+      "community_aliases": [
+        "人类"
+      ],
+      "source_ids": [],
+      "verified_at": null,
+      "note": "Community/search aliases only. Official Simplified Chinese name has not been verified in the bundled primary sources."
+    },
+    {
+      "english": "AC-8 Autocannon",
+      "wiki_title": "AC-8 Autocannon",
+      "official_label": null,
+      "verified": false,
+      "category": "unverified",
+      "aliases": [],
+      "community_aliases": [
+        "机炮",
+        "自动加农炮"
+      ],
+      "source_ids": [],
+      "verified_at": null,
+      "note": "Community/search aliases only. Official Simplified Chinese name has not been verified in the bundled primary sources."
+    },
+    {
+      "english": "RS-422 Railgun",
+      "wiki_title": "RS-422 Railgun",
+      "official_label": null,
+      "verified": false,
+      "category": "unverified",
+      "aliases": [],
+      "community_aliases": [
+        "磁轨炮"
+      ],
+      "source_ids": [],
+      "verified_at": null,
+      "note": "Community/search aliases only. Official Simplified Chinese name has not been verified in the bundled primary sources."
+    },
+    {
+      "english": "Malevelon Creek",
+      "wiki_title": "Malevelon Creek",
+      "official_label": null,
+      "verified": false,
+      "category": "unverified",
+      "aliases": [],
+      "community_aliases": [
+        "马勒维隆溪",
+        "马维隆溪"
+      ],
+      "source_ids": [],
+      "verified_at": null,
+      "note": "Community/search aliases only. Official Simplified Chinese name has not been verified in the bundled primary sources."
+    }
+  ]
+}

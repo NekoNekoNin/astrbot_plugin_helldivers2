@@ -1,0 +1,3051 @@
+{
+  "source_url": "https://helldiverscompanion.com/_app/immutable/chunks/DNxZweEl.js",
+  "decoder_source_url": "https://helldiverscompanion.com/_app/immutable/chunks/DsR0J7S5.js",
+  "retrieved_at": "2026-10-24T09:47:00Z",
+  "frontend_version": "02.182.013",
+  "frontend_sha256": "3b34d228538d007247b570cbe41d8d8f312bb8e13c9b0c6b715e6bd34c6df7a9",
+  "language": "en",
+  "official_chinese_verified": false,
+  "matching": "Match current warInfo.planetInfos settingsHash AND index; unknown layouts must remain unnamed.",
+  "planets": {
+    "897386910": {
+      "settingsHash": 897386910,
+      "index": 0,
+      "name": "Super Earth",
+      "biome": "superearth",
+      "sector": 0
+    },
+    "3621417917": {
+      "settingsHash": 3621417917,
+      "index": 1,
+      "name": "Klen Dahth II",
+      "biome": "sandy_base",
+      "sector": 1
+    },
+    "2543303604": {
+      "settingsHash": 2543303604,
+      "index": 2,
+      "name": "Pathfinder V",
+      "biome": "moor_base",
+      "sector": 1
+    },
+    "2768073863": {
+      "settingsHash": 2768073863,
+      "index": 3,
+      "name": "Widow's Harbor",
+      "biome": "sandy_moon",
+      "sector": 1
+    },
+    "158585041": {
+      "settingsHash": 158585041,
+      "index": 4,
+      "name": "New Haven",
+      "biome": "primordial_blue",
+      "sector": 1
+    },
+    "1008084099": {
+      "settingsHash": 1008084099,
+      "index": 5,
+      "name": "Pilen V",
+      "biome": "sandy_spiky",
+      "sector": 1
+    },
+    "167872110": {
+      "settingsHash": 167872110,
+      "index": 6,
+      "name": "Hydrofall Prime",
+      "biome": "sandy_mineral",
+      "sector": 2
+    },
+    "1138804949": {
+      "settingsHash": 1138804949,
+      "index": 7,
+      "name": "Zea Rugosia",
+      "biome": "sandy_spiky",
+      "sector": 2
+    },
+    "3550298780": {
+      "settingsHash": 3550298780,
+      "index": 8,
+      "name": "Darrowsport",
+      "biome": "sandy_acid",
+      "sector": 2
+    },
+    "1025193891": {
+      "settingsHash": 1025193891,
+      "index": 9,
+      "name": "Fornskogur II",
+      "biome": "swamp_base",
+      "sector": 2
+    },
+    "2767954873": {
+      "settingsHash": 2767954873,
+      "index": 10,
+      "name": "Midasburg",
+      "biome": "moor_tundra",
+      "sector": 2
+    },
+    "688773671": {
+      "settingsHash": 688773671,
+      "index": 11,
+      "name": "Cerberus IIIc",
+      "biome": "sandy_spiky",
+      "sector": 3
+    },
+    "160818366": {
+      "settingsHash": 160818366,
+      "index": 12,
+      "name": "Prosperity Falls",
+      "biome": "primordial_blue",
+      "sector": 3
+    },
+    "2877873656": {
+      "settingsHash": 2877873656,
+      "index": 13,
+      "name": "Okul VI",
+      "biome": "glacier_base",
+      "sector": 4
+    },
+    "1529228469": {
+      "settingsHash": 1529228469,
+      "index": 14,
+      "name": "Martyr's Bay",
+      "biome": "glacier_coldrocky",
+      "sector": 5
+    },
+    "3749877391": {
+      "settingsHash": 3749877391,
+      "index": 15,
+      "name": "Freedom Peak",
+      "biome": "moor_red",
+      "sector": 5
+    },
+    "4254371037": {
+      "settingsHash": 4254371037,
+      "index": 16,
+      "name": "Fort Union",
+      "biome": "moor_base",
+      "sector": 5
+    },
+    "2273175182": {
+      "settingsHash": 2273175182,
+      "index": 17,
+      "name": "Kelvinor",
+      "biome": "glacier_base",
+      "sector": 5
+    },
+    "3088889549": {
+      "settingsHash": 3088889549,
+      "index": 18,
+      "name": "Wraith",
+      "biome": "sandy_acid",
+      "sector": 6
+    },
+    "768352347": {
+      "settingsHash": 768352347,
+      "index": 19,
+      "name": "Igla",
+      "biome": "glacier_coldrocky",
+      "sector": 7
+    },
+    "1299274778": {
+      "settingsHash": 1299274778,
+      "index": 20,
+      "name": "New Kiruna",
+      "biome": "glacier_base",
+      "sector": 7
+    },
+    "3992185257": {
+      "settingsHash": 3992185257,
+      "index": 21,
+      "name": "Fort Justice",
+      "biome": "primordial_purple",
+      "sector": 7
+    },
+    "160106209": {
+      "settingsHash": 160106209,
+      "index": 22,
+      "name": "Zegema Paradise",
+      "biome": "primordial_tutorial",
+      "sector": 7
+    },
+    "1257502272": {
+      "settingsHash": 1257502272,
+      "index": 23,
+      "name": "Providence",
+      "biome": "moor_red",
+      "sector": 8
+    },
+    "2862366365": {
+      "settingsHash": 2862366365,
+      "index": 24,
+      "name": "Primordia",
+      "biome": "primordial_base",
+      "sector": 8
+    },
+    "1812451556": {
+      "settingsHash": 1812451556,
+      "index": 25,
+      "name": "Sulfura",
+      "biome": "primordial_purple",
+      "sector": 9
+    },
+    "4068066596": {
+      "settingsHash": 4068066596,
+      "index": 26,
+      "name": "Nublaria I",
+      "biome": "swamp_haunted",
+      "sector": 9
+    },
+    "2585302931": {
+      "settingsHash": 2585302931,
+      "index": 27,
+      "name": "Krakatwo",
+      "biome": "glacier_coldrocky",
+      "sector": 9
+    },
+    "3650236983": {
+      "settingsHash": 3650236983,
+      "index": 28,
+      "name": "Volterra",
+      "biome": "moor_base",
+      "sector": 9
+    },
+    "410562438": {
+      "settingsHash": 410562438,
+      "index": 29,
+      "name": "Crucible",
+      "biome": "moor_tundra",
+      "sector": 10
+    },
+    "3538905431": {
+      "settingsHash": 3538905431,
+      "index": 30,
+      "name": "Veil",
+      "biome": "primordial_dead",
+      "sector": 2
+    },
+    "529527934": {
+      "settingsHash": 529527934,
+      "index": 31,
+      "name": "Marre IV",
+      "biome": "moor_arid",
+      "sector": 2
+    },
+    "3945891756": {
+      "settingsHash": 3945891756,
+      "index": 32,
+      "name": "Fort Sanctuary",
+      "biome": "moor_red",
+      "sector": 3
+    },
+    "3266374354": {
+      "settingsHash": 3266374354,
+      "index": 33,
+      "name": "Seyshel Beach",
+      "biome": "primordial_purple",
+      "sector": 3
+    },
+    "3551496165": {
+      "settingsHash": 3551496165,
+      "index": 34,
+      "name": "Hellmire",
+      "biome": "moor_arid",
+      "sector": 3
+    },
+    "2640422831": {
+      "settingsHash": 2640422831,
+      "index": 35,
+      "name": "Effluvia",
+      "biome": "sandy_mineral",
+      "sector": 3
+    },
+    "3407890530": {
+      "settingsHash": 3407890530,
+      "index": 36,
+      "name": "Solghast",
+      "biome": "swamp_haunted",
+      "sector": 4
+    },
+    "760056919": {
+      "settingsHash": 760056919,
+      "index": 37,
+      "name": "Diluvia",
+      "biome": "moor_tundra",
+      "sector": 4
+    },
+    "1831450049": {
+      "settingsHash": 1831450049,
+      "index": 38,
+      "name": "Viridia Prime",
+      "biome": "sandy_base",
+      "sector": 5
+    },
+    "298165685": {
+      "settingsHash": 298165685,
+      "index": 39,
+      "name": "Obari",
+      "biome": "moor_base",
+      "sector": 5
+    },
+    "2146401321": {
+      "settingsHash": 2146401321,
+      "index": 40,
+      "name": "Myradesh",
+      "biome": "sandy_spiky",
+      "sector": 6
+    },
+    "3508924100": {
+      "settingsHash": 3508924100,
+      "index": 41,
+      "name": "Atrama",
+      "biome": "swamp_haunted",
+      "sector": 6
+    },
+    "2243203717": {
+      "settingsHash": 2243203717,
+      "index": 42,
+      "name": "Emeria",
+      "biome": "sandy_mineral",
+      "sector": 7
+    },
+    "1678797801": {
+      "settingsHash": 1678797801,
+      "index": 43,
+      "name": "Barabos",
+      "biome": "swamp_base",
+      "sector": 18
+    },
+    "3404343820": {
+      "settingsHash": 3404343820,
+      "index": 44,
+      "name": "Fenmire",
+      "biome": "moor_base",
+      "sector": 18
+    },
+    "2969736642": {
+      "settingsHash": 2969736642,
+      "index": 45,
+      "name": "Mastia",
+      "biome": "sandy_base",
+      "sector": 19
+    },
+    "1438199726": {
+      "settingsHash": 1438199726,
+      "index": 46,
+      "name": "Shallus",
+      "biome": "primordial_purple",
+      "sector": 19
+    },
+    "2013504640": {
+      "settingsHash": 2013504640,
+      "index": 47,
+      "name": "Krakabos",
+      "biome": "swamp_base",
+      "sector": 8
+    },
+    "2525961073": {
+      "settingsHash": 2525961073,
+      "index": 48,
+      "name": "Iridica",
+      "biome": "primordial_purple",
+      "sector": 8
+    },
+    "2151164116": {
+      "settingsHash": 2151164116,
+      "index": 49,
+      "name": "Azterra",
+      "biome": "sandy_mineral",
+      "sector": 20
+    },
+    "3265310936": {
+      "settingsHash": 3265310936,
+      "index": 50,
+      "name": "Azur Secundus",
+      "biome": "sandy_spiky",
+      "sector": 20
+    },
+    "4148701638": {
+      "settingsHash": 4148701638,
+      "index": 51,
+      "name": "Ivis",
+      "biome": "swamp_base",
+      "sector": 9
+    },
+    "1756822119": {
+      "settingsHash": 1756822119,
+      "index": 52,
+      "name": "Slif",
+      "biome": "sandy_acid",
+      "sector": 9
+    },
+    "438925458": {
+      "settingsHash": 438925458,
+      "index": 53,
+      "name": "Caramoor",
+      "biome": "sandy_base",
+      "sector": 10
+    },
+    "4190033207": {
+      "settingsHash": 4190033207,
+      "index": 54,
+      "name": "Kharst",
+      "biome": "moor_red",
+      "sector": 11
+    },
+    "3951456049": {
+      "settingsHash": 3951456049,
+      "index": 55,
+      "name": "Eukoria",
+      "biome": "glacier_coldrocky",
+      "sector": 12
+    },
+    "207323189": {
+      "settingsHash": 207323189,
+      "index": 56,
+      "name": "Myrium",
+      "biome": "sandy_mineral",
+      "sector": 12
+    },
+    "3674393208": {
+      "settingsHash": 3674393208,
+      "index": 57,
+      "name": "Kerth Secundus",
+      "biome": "moor_tundra",
+      "sector": 13
+    },
+    "430094434": {
+      "settingsHash": 430094434,
+      "index": 58,
+      "name": "Parsh",
+      "biome": "swamp_base",
+      "sector": 13
+    },
+    "1018677806": {
+      "settingsHash": 1018677806,
+      "index": 59,
+      "name": "Reaf",
+      "biome": "moor_base",
+      "sector": 14
+    },
+    "2414771368": {
+      "settingsHash": 2414771368,
+      "index": 60,
+      "name": "Irulta",
+      "biome": "primordial_base",
+      "sector": 14
+    },
+    "635122119": {
+      "settingsHash": 635122119,
+      "index": 61,
+      "name": "Emorath",
+      "biome": "primordial_purple",
+      "sector": 15
+    },
+    "3508592390": {
+      "settingsHash": 3508592390,
+      "index": 62,
+      "name": "Ilduna Prime",
+      "biome": "moor_tundra",
+      "sector": 15
+    },
+    "4056948497": {
+      "settingsHash": 4056948497,
+      "index": 63,
+      "name": "Maw",
+      "biome": "moor_arid",
+      "sector": 6
+    },
+    "215016124": {
+      "settingsHash": 215016124,
+      "index": 64,
+      "name": "Meridia",
+      "biome": "primordial_bug",
+      "sector": 17
+    },
+    "3293929397": {
+      "settingsHash": 3293929397,
+      "index": 65,
+      "name": "Borea",
+      "biome": "glacier_base",
+      "sector": 17
+    },
+    "1750606702": {
+      "settingsHash": 1750606702,
+      "index": 66,
+      "name": "Curia",
+      "biome": "sandy_moon",
+      "sector": 18
+    },
+    "3882819373": {
+      "settingsHash": 3882819373,
+      "index": 67,
+      "name": "Tarsh",
+      "biome": "swamp_haunted",
+      "sector": 18
+    },
+    "1223630977": {
+      "settingsHash": 1223630977,
+      "index": 68,
+      "name": "Shelt",
+      "biome": "moor_tundra",
+      "sector": 18
+    },
+    "2115544264": {
+      "settingsHash": 2115544264,
+      "index": 69,
+      "name": "Imber",
+      "biome": "moor_arid",
+      "sector": 19
+    },
+    "4206815834": {
+      "settingsHash": 4206815834,
+      "index": 70,
+      "name": "Blistica",
+      "biome": "moor_arid",
+      "sector": 8
+    },
+    "2898292715": {
+      "settingsHash": 2898292715,
+      "index": 71,
+      "name": "Ratch",
+      "biome": "swamp_haunted",
+      "sector": 8
+    },
+    "922433838": {
+      "settingsHash": 922433838,
+      "index": 72,
+      "name": "Julheim",
+      "biome": "glacier_base",
+      "sector": 31
+    },
+    "3238002446": {
+      "settingsHash": 3238002446,
+      "index": 73,
+      "name": "Valgaard",
+      "biome": "moor_red",
+      "sector": 8
+    },
+    "670993741": {
+      "settingsHash": 670993741,
+      "index": 74,
+      "name": "Arkturus",
+      "biome": "glacier_base",
+      "sector": 20
+    },
+    "2729833133": {
+      "settingsHash": 2729833133,
+      "index": 75,
+      "name": "Esker",
+      "biome": "sandy_acid",
+      "sector": 20
+    },
+    "910588397": {
+      "settingsHash": 910588397,
+      "index": 76,
+      "name": "Terrek",
+      "biome": "sandy_moon",
+      "sector": 20
+    },
+    "2112907641": {
+      "settingsHash": 2112907641,
+      "index": 77,
+      "name": "Cirrus",
+      "biome": "primordial_dead",
+      "sector": 20
+    },
+    "1886266372": {
+      "settingsHash": 1886266372,
+      "index": 78,
+      "name": "Crimsica",
+      "biome": "moor_red",
+      "sector": 21
+    },
+    "1391690878": {
+      "settingsHash": 1391690878,
+      "index": 79,
+      "name": "Heeth",
+      "biome": "glacier_base",
+      "sector": 21
+    },
+    "3659340575": {
+      "settingsHash": 3659340575,
+      "index": 80,
+      "name": "Veld",
+      "biome": "primordial_blue",
+      "sector": 22
+    },
+    "572365311": {
+      "settingsHash": 572365311,
+      "index": 81,
+      "name": "Alta V",
+      "biome": "primordial_base",
+      "sector": 22
+    },
+    "4009717368": {
+      "settingsHash": 4009717368,
+      "index": 82,
+      "name": "Ursica XI",
+      "biome": "primordial_purple",
+      "sector": 10
+    },
+    "2623879324": {
+      "settingsHash": 2623879324,
+      "index": 83,
+      "name": "Inari",
+      "biome": "glacier_coldrocky",
+      "sector": 10
+    },
+    "1076755284": {
+      "settingsHash": 1076755284,
+      "index": 84,
+      "name": "Skaash",
+      "biome": "sandy_acid",
+      "sector": 24
+    },
+    "912379297": {
+      "settingsHash": 912379297,
+      "index": 85,
+      "name": "Moradesh",
+      "biome": "sandy_base",
+      "sector": 24
+    },
+    "2598991571": {
+      "settingsHash": 2598991571,
+      "index": 86,
+      "name": "Rasp",
+      "biome": "sandy_moon",
+      "sector": 11
+    },
+    "49391513": {
+      "settingsHash": 49391513,
+      "index": 87,
+      "name": "Bashyr",
+      "biome": "swamp_haunted",
+      "sector": 11
+    },
+    "2299441253": {
+      "settingsHash": 2299441253,
+      "index": 88,
+      "name": "Regnus",
+      "biome": "primordial_base",
+      "sector": 12
+    },
+    "2695815635": {
+      "settingsHash": 2695815635,
+      "index": 89,
+      "name": "Mog",
+      "biome": "glacier_base",
+      "sector": 12
+    },
+    "1922612740": {
+      "settingsHash": 1922612740,
+      "index": 90,
+      "name": "Valmox",
+      "biome": "moor_red",
+      "sector": 13
+    },
+    "3172148623": {
+      "settingsHash": 3172148623,
+      "index": 91,
+      "name": "Iro",
+      "biome": "swamp_haunted",
+      "sector": 13
+    },
+    "3602852408": {
+      "settingsHash": 3602852408,
+      "index": 92,
+      "name": "Grafmere",
+      "biome": "glacier_coldrocky",
+      "sector": 13
+    },
+    "3515684391": {
+      "settingsHash": 3515684391,
+      "index": 93,
+      "name": "New Stockholm",
+      "biome": "glacier_base",
+      "sector": 13
+    },
+    "997855239": {
+      "settingsHash": 997855239,
+      "index": 94,
+      "name": "Oasis",
+      "biome": "primordial_base",
+      "sector": 13
+    },
+    "910436923": {
+      "settingsHash": 910436923,
+      "index": 95,
+      "name": "Genesis Prime",
+      "biome": "primordial_blue",
+      "sector": 13
+    },
+    "2306843160": {
+      "settingsHash": 2306843160,
+      "index": 96,
+      "name": "Outpost 32",
+      "biome": "sandy_base",
+      "sector": 14
+    },
+    "4011448258": {
+      "settingsHash": 4011448258,
+      "index": 97,
+      "name": "Calypso",
+      "biome": "sandy_mineral",
+      "sector": 14
+    },
+    "3533355425": {
+      "settingsHash": 3533355425,
+      "index": 98,
+      "name": "Elysian Meadows",
+      "biome": "moor_red",
+      "sector": 28
+    },
+    "104621771": {
+      "settingsHash": 104621771,
+      "index": 99,
+      "name": "Sangis",
+      "biome": "deciduous_autumn",
+      "sector": 28
+    },
+    "3515299681": {
+      "settingsHash": 3515299681,
+      "index": 100,
+      "name": "Trandor",
+      "biome": "moor_tundra",
+      "sector": 29
+    },
+    "3115954791": {
+      "settingsHash": 3115954791,
+      "index": 101,
+      "name": "East Iridium Trading Bay",
+      "biome": "swamp_base",
+      "sector": 29
+    },
+    "1017957570": {
+      "settingsHash": 1017957570,
+      "index": 102,
+      "name": "Liberty Ridge",
+      "biome": "moor_red",
+      "sector": 15
+    },
+    "1398996417": {
+      "settingsHash": 1398996417,
+      "index": 103,
+      "name": "Baldrick Prime",
+      "biome": "primordial_base",
+      "sector": 15
+    },
+    "701410047": {
+      "settingsHash": 701410047,
+      "index": 104,
+      "name": "The Weir",
+      "biome": "moor_base",
+      "sector": 16
+    },
+    "2344219187": {
+      "settingsHash": 2344219187,
+      "index": 105,
+      "name": "Kuper",
+      "biome": "primordial_blue",
+      "sector": 16
+    },
+    "1496025116": {
+      "settingsHash": 1496025116,
+      "index": 106,
+      "name": "Oslo Station",
+      "biome": "glacier_coldrocky",
+      "sector": 17
+    },
+    "696145979": {
+      "settingsHash": 696145979,
+      "index": 107,
+      "name": "Pöpli IX",
+      "biome": "moor_arid",
+      "sector": 17
+    },
+    "435094671": {
+      "settingsHash": 435094671,
+      "index": 108,
+      "name": "Gunvald",
+      "biome": "moor_red",
+      "sector": 31
+    },
+    "2131959183": {
+      "settingsHash": 2131959183,
+      "index": 109,
+      "name": "Dolph",
+      "biome": "sandy_moon",
+      "sector": 31
+    },
+    "412801448": {
+      "settingsHash": 412801448,
+      "index": 110,
+      "name": "Bekvam III",
+      "biome": "primordial_purple",
+      "sector": 31
+    },
+    "255676170": {
+      "settingsHash": 255676170,
+      "index": 111,
+      "name": "Duma Tyr",
+      "biome": "moor_tundra",
+      "sector": 31
+    },
+    "2442155408": {
+      "settingsHash": 2442155408,
+      "index": 112,
+      "name": "Vernen Wells",
+      "biome": "sandy_mineral",
+      "sector": 32
+    },
+    "3407029244": {
+      "settingsHash": 3407029244,
+      "index": 113,
+      "name": "Aesir Pass",
+      "biome": "primordial_dead",
+      "sector": 32
+    },
+    "975759959": {
+      "settingsHash": 975759959,
+      "index": 114,
+      "name": "Aurora Bay",
+      "biome": "moor_tundra",
+      "sector": 19
+    },
+    "101741274": {
+      "settingsHash": 101741274,
+      "index": 115,
+      "name": "Penta",
+      "biome": "primordial_dead",
+      "sector": 19
+    },
+    "2654907023": {
+      "settingsHash": 2654907023,
+      "index": 116,
+      "name": "Gaellivare",
+      "biome": "primordial_base",
+      "sector": 19
+    },
+    "2580049274": {
+      "settingsHash": 2580049274,
+      "index": 117,
+      "name": "Vog-Sojoth",
+      "biome": "glacier_base",
+      "sector": 19
+    },
+    "612402065": {
+      "settingsHash": 612402065,
+      "index": 118,
+      "name": "Kirrik",
+      "biome": "primordial_base",
+      "sector": 36
+    },
+    "248400433": {
+      "settingsHash": 248400433,
+      "index": 119,
+      "name": "Mortax Prime",
+      "biome": "sandy_spiky",
+      "sector": 36
+    },
+    "1423930789": {
+      "settingsHash": 1423930789,
+      "index": 120,
+      "name": "Wilford Station",
+      "biome": "sandy_acid",
+      "sector": 36
+    },
+    "429955586": {
+      "settingsHash": 429955586,
+      "index": 121,
+      "name": "Pioneer II",
+      "biome": "sandy_mineral",
+      "sector": 36
+    },
+    "137703244": {
+      "settingsHash": 137703244,
+      "index": 122,
+      "name": "Erson Sands",
+      "biome": "sandy_spiky",
+      "sector": 37
+    },
+    "1156965013": {
+      "settingsHash": 1156965013,
+      "index": 123,
+      "name": "Socorro III",
+      "biome": "swamp_haunted",
+      "sector": 37
+    },
+    "2435651414": {
+      "settingsHash": 2435651414,
+      "index": 124,
+      "name": "Bore Rock",
+      "biome": "swamp_base",
+      "sector": 20
+    },
+    "2875368439": {
+      "settingsHash": 2875368439,
+      "index": 125,
+      "name": "Fenrir III",
+      "biome": "sandy_moon",
+      "sector": 20
+    },
+    "2706883571": {
+      "settingsHash": 2706883571,
+      "index": 126,
+      "name": "Turing",
+      "biome": "primordial_purple",
+      "sector": 21
+    },
+    "2003553249": {
+      "settingsHash": 2003553249,
+      "index": 127,
+      "name": "Angel's Venture",
+      "biome": "moor_tundra",
+      "sector": 21
+    },
+    "2658926073": {
+      "settingsHash": 2658926073,
+      "index": 128,
+      "name": "Darius II",
+      "biome": "sandy_acid",
+      "sector": 22
+    },
+    "1231076923": {
+      "settingsHash": 1231076923,
+      "index": 129,
+      "name": "Acamar IV",
+      "biome": "moor_base",
+      "sector": 39
+    },
+    "984145086": {
+      "settingsHash": 984145086,
+      "index": 130,
+      "name": "Achernar Secundus",
+      "biome": "moor_base",
+      "sector": 23
+    },
+    "3921453955": {
+      "settingsHash": 3921453955,
+      "index": 131,
+      "name": "Achird III",
+      "biome": "sandy_mineral",
+      "sector": 23
+    },
+    "3215655918": {
+      "settingsHash": 3215655918,
+      "index": 132,
+      "name": "Acrab XI",
+      "biome": "moor_red",
+      "sector": 24
+    },
+    "997215371": {
+      "settingsHash": 997215371,
+      "index": 133,
+      "name": "Acrux IX",
+      "biome": "glacier_coldrocky",
+      "sector": 24
+    },
+    "2282459618": {
+      "settingsHash": 2282459618,
+      "index": 134,
+      "name": "Acubens Prime",
+      "biome": "primordial_purple",
+      "sector": 11
+    },
+    "1937725917": {
+      "settingsHash": 1937725917,
+      "index": 135,
+      "name": "Adhara",
+      "biome": "moor_arid",
+      "sector": 11
+    },
+    "3715077297": {
+      "settingsHash": 3715077297,
+      "index": 136,
+      "name": "Afoyay Bay",
+      "biome": "moor_base",
+      "sector": 11
+    },
+    "4017257734": {
+      "settingsHash": 4017257734,
+      "index": 137,
+      "name": "Ain-5",
+      "biome": "primordial_dead",
+      "sector": 26
+    },
+    "1534729714": {
+      "settingsHash": 1534729714,
+      "index": 138,
+      "name": "Alairt III",
+      "biome": "primordial_blue",
+      "sector": 26
+    },
+    "3213455987": {
+      "settingsHash": 3213455987,
+      "index": 139,
+      "name": "Alamak VII",
+      "biome": "primordial_purple",
+      "sector": 26
+    },
+    "2830340410": {
+      "settingsHash": 2830340410,
+      "index": 140,
+      "name": "Alaraph",
+      "biome": "primordial_dead",
+      "sector": 27
+    },
+    "1297056046": {
+      "settingsHash": 1297056046,
+      "index": 141,
+      "name": "Alathfar XI",
+      "biome": "glacier_base",
+      "sector": 27
+    },
+    "1526977116": {
+      "settingsHash": 1526977116,
+      "index": 142,
+      "name": "Andar",
+      "biome": "moor_tundra",
+      "sector": 27
+    },
+    "770159872": {
+      "settingsHash": 770159872,
+      "index": 143,
+      "name": "Asperoth Prime",
+      "biome": "swamp_base",
+      "sector": 27
+    },
+    "232742202": {
+      "settingsHash": 232742202,
+      "index": 144,
+      "name": "Bellatrix",
+      "biome": "moor_base",
+      "sector": 28
+    },
+    "784275392": {
+      "settingsHash": 784275392,
+      "index": 145,
+      "name": "Botein",
+      "biome": "sandy_acid",
+      "sector": 28
+    },
+    "1986037000": {
+      "settingsHash": 1986037000,
+      "index": 146,
+      "name": "Osupsam",
+      "biome": "sandy_base",
+      "sector": 29
+    },
+    "2935376141": {
+      "settingsHash": 2935376141,
+      "index": 147,
+      "name": "Brink-2",
+      "biome": "primordial_blue",
+      "sector": 29
+    },
+    "3228999359": {
+      "settingsHash": 3228999359,
+      "index": 148,
+      "name": "Bunda Secundus",
+      "biome": "moor_tundra",
+      "sector": 29
+    },
+    "3482441182": {
+      "settingsHash": 3482441182,
+      "index": 149,
+      "name": "Canopus",
+      "biome": "sandy_spiky",
+      "sector": 29
+    },
+    "3480296110": {
+      "settingsHash": 3480296110,
+      "index": 150,
+      "name": "Caph",
+      "biome": "swamp_base",
+      "sector": 16
+    },
+    "1043181": {
+      "settingsHash": 1043181,
+      "index": 151,
+      "name": "Castor",
+      "biome": "sandy_mineral",
+      "sector": 16
+    },
+    "572242261": {
+      "settingsHash": 572242261,
+      "index": 152,
+      "name": "Durgen",
+      "biome": "sandy_base",
+      "sector": 31
+    },
+    "1192040123": {
+      "settingsHash": 1192040123,
+      "index": 153,
+      "name": "Draupnir",
+      "biome": "moor_base",
+      "sector": 31
+    },
+    "457558822": {
+      "settingsHash": 457558822,
+      "index": 154,
+      "name": "Mort",
+      "biome": "primordial_dead",
+      "sector": 31
+    },
+    "2655630774": {
+      "settingsHash": 2655630774,
+      "index": 155,
+      "name": "Ingmar",
+      "biome": "moor_red",
+      "sector": 31
+    },
+    "3531149629": {
+      "settingsHash": 3531149629,
+      "index": 156,
+      "name": "Charbal-VII",
+      "biome": "sandy_acid",
+      "sector": 33
+    },
+    "2007360508": {
+      "settingsHash": 2007360508,
+      "index": 157,
+      "name": "Charon Prime",
+      "biome": "moor_red",
+      "sector": 32
+    },
+    "2564387350": {
+      "settingsHash": 2564387350,
+      "index": 158,
+      "name": "Choepessa IV",
+      "biome": "glacier_coldrocky",
+      "sector": 32
+    },
+    "1159313659": {
+      "settingsHash": 1159313659,
+      "index": 159,
+      "name": "Choohe",
+      "biome": "sandy_base",
+      "sector": 34
+    },
+    "2695598028": {
+      "settingsHash": 2695598028,
+      "index": 160,
+      "name": "Chort Bay",
+      "biome": "sandy_acid",
+      "sector": 34
+    },
+    "1109752394": {
+      "settingsHash": 1109752394,
+      "index": 161,
+      "name": "Claorell",
+      "biome": "sandy_moon",
+      "sector": 35
+    },
+    "4171074231": {
+      "settingsHash": 4171074231,
+      "index": 162,
+      "name": "Clasa",
+      "biome": "swamp_base",
+      "sector": 35
+    },
+    "1270268663": {
+      "settingsHash": 1270268663,
+      "index": 163,
+      "name": "Demiurg",
+      "biome": "moor_tundra",
+      "sector": 35
+    },
+    "575825411": {
+      "settingsHash": 575825411,
+      "index": 164,
+      "name": "Deneb Secundus",
+      "biome": "glacier_coldrocky",
+      "sector": 36
+    },
+    "3031668844": {
+      "settingsHash": 3031668844,
+      "index": 165,
+      "name": "Electra Bay",
+      "biome": "moor_base",
+      "sector": 36
+    },
+    "3692735566": {
+      "settingsHash": 3692735566,
+      "index": 166,
+      "name": "Enuliale",
+      "biome": "moor_red",
+      "sector": 37
+    },
+    "3517952761": {
+      "settingsHash": 3517952761,
+      "index": 167,
+      "name": "Epsilon Phoencis VI",
+      "biome": "glacier_base",
+      "sector": 37
+    },
+    "3604506896": {
+      "settingsHash": 3604506896,
+      "index": 168,
+      "name": "Erata Prime",
+      "biome": "sandy_spiky",
+      "sector": 38
+    },
+    "356540875": {
+      "settingsHash": 356540875,
+      "index": 169,
+      "name": "Estanu",
+      "biome": "glacier_coldrocky",
+      "sector": 21
+    },
+    "3087050848": {
+      "settingsHash": 3087050848,
+      "index": 170,
+      "name": "Fori Prime",
+      "biome": "sandy_mineral",
+      "sector": 21
+    },
+    "2036924050": {
+      "settingsHash": 2036924050,
+      "index": 171,
+      "name": "Gacrux",
+      "biome": "swamp_base",
+      "sector": 39
+    },
+    "2254239637": {
+      "settingsHash": 2254239637,
+      "index": 172,
+      "name": "Gar Haren",
+      "biome": "swamp_haunted",
+      "sector": 39
+    },
+    "1039531899": {
+      "settingsHash": 1039531899,
+      "index": 173,
+      "name": "Gatria",
+      "biome": "moor_red",
+      "sector": 39
+    },
+    "1730968584": {
+      "settingsHash": 1730968584,
+      "index": 174,
+      "name": "Gemma",
+      "biome": "primordial_blue",
+      "sector": 24
+    },
+    "3461540330": {
+      "settingsHash": 3461540330,
+      "index": 175,
+      "name": "Grand Errant",
+      "biome": "moor_arid",
+      "sector": 24
+    },
+    "3671746797": {
+      "settingsHash": 3671746797,
+      "index": 176,
+      "name": "Hadar",
+      "biome": "glacier_base",
+      "sector": 25
+    },
+    "1969390828": {
+      "settingsHash": 1969390828,
+      "index": 177,
+      "name": "Haka",
+      "biome": "primordial_dead",
+      "sector": 25
+    },
+    "3856827013": {
+      "settingsHash": 3856827013,
+      "index": 178,
+      "name": "Haldus",
+      "biome": "swamp_base",
+      "sector": 25
+    },
+    "386932878": {
+      "settingsHash": 386932878,
+      "index": 179,
+      "name": "Halies Port",
+      "biome": "glacier_coldrocky",
+      "sector": 25
+    },
+    "2517847560": {
+      "settingsHash": 2517847560,
+      "index": 180,
+      "name": "Herthon Secundus",
+      "biome": "moor_arid",
+      "sector": 25
+    },
+    "1581052380": {
+      "settingsHash": 1581052380,
+      "index": 181,
+      "name": "Hesoe Prime",
+      "biome": "glacier_base",
+      "sector": 25
+    },
+    "4182360890": {
+      "settingsHash": 4182360890,
+      "index": 182,
+      "name": "Heze Bay",
+      "biome": "sandy_base",
+      "sector": 26
+    },
+    "2078192573": {
+      "settingsHash": 2078192573,
+      "index": 183,
+      "name": "Hort",
+      "biome": "moor_base",
+      "sector": 26
+    },
+    "1722929190": {
+      "settingsHash": 1722929190,
+      "index": 184,
+      "name": "Hydrobius",
+      "biome": "sandy_spiky",
+      "sector": 43
+    },
+    "101839064": {
+      "settingsHash": 101839064,
+      "index": 185,
+      "name": "Karlia",
+      "biome": "moor_arid",
+      "sector": 43
+    },
+    "2563880739": {
+      "settingsHash": 2563880739,
+      "index": 186,
+      "name": "Keid",
+      "biome": "sandy_base",
+      "sector": 27
+    },
+    "1697634205": {
+      "settingsHash": 1697634205,
+      "index": 187,
+      "name": "Khandark",
+      "biome": "swamp_haunted",
+      "sector": 28
+    },
+    "1366049074": {
+      "settingsHash": 1366049074,
+      "index": 188,
+      "name": "Klaka 5",
+      "biome": "swamp_haunted",
+      "sector": 30
+    },
+    "4234355218": {
+      "settingsHash": 4234355218,
+      "index": 189,
+      "name": "Kneth Port",
+      "biome": "moor_arid",
+      "sector": 30
+    },
+    "2097290850": {
+      "settingsHash": 2097290850,
+      "index": 190,
+      "name": "Kraz",
+      "biome": "sandy_mineral",
+      "sector": 30
+    },
+    "3764590020": {
+      "settingsHash": 3764590020,
+      "index": 191,
+      "name": "Kuma",
+      "biome": "sandy_mineral",
+      "sector": 30
+    },
+    "3052439858": {
+      "settingsHash": 3052439858,
+      "index": 192,
+      "name": "Lastofe",
+      "biome": "sandy_base",
+      "sector": 16
+    },
+    "2845725342": {
+      "settingsHash": 2845725342,
+      "index": 193,
+      "name": "Leng Secundus",
+      "biome": "sandy_acid",
+      "sector": 16
+    },
+    "3837447591": {
+      "settingsHash": 3837447591,
+      "index": 194,
+      "name": "Lesath",
+      "biome": "glacier_coldrocky",
+      "sector": 46
+    },
+    "1126502547": {
+      "settingsHash": 1126502547,
+      "index": 195,
+      "name": "Maia",
+      "biome": "sandy_moon",
+      "sector": 46
+    },
+    "3244992775": {
+      "settingsHash": 3244992775,
+      "index": 196,
+      "name": "Malevelon Creek",
+      "biome": "primordial_blue",
+      "sector": 33
+    },
+    "1806559160": {
+      "settingsHash": 1806559160,
+      "index": 197,
+      "name": "Mantes",
+      "biome": "primordial_base",
+      "sector": 33
+    },
+    "2831860380": {
+      "settingsHash": 2831860380,
+      "index": 198,
+      "name": "Marfark",
+      "biome": "glacier_base",
+      "sector": 33
+    },
+    "2016899055": {
+      "settingsHash": 2016899055,
+      "index": 199,
+      "name": "Martale",
+      "biome": "moor_tundra",
+      "sector": 33
+    },
+    "2071495162": {
+      "settingsHash": 2071495162,
+      "index": 200,
+      "name": "Matar Bay",
+      "biome": "moor_base",
+      "sector": 34
+    },
+    "996779072": {
+      "settingsHash": 996779072,
+      "index": 201,
+      "name": "Meissa",
+      "biome": "primordial_base",
+      "sector": 34
+    },
+    "1982461871": {
+      "settingsHash": 1982461871,
+      "index": 202,
+      "name": "Mekbuda",
+      "biome": "sandy_mineral",
+      "sector": 34
+    },
+    "3161413384": {
+      "settingsHash": 3161413384,
+      "index": 203,
+      "name": "Menkent",
+      "biome": "moor_arid",
+      "sector": 34
+    },
+    "964201429": {
+      "settingsHash": 964201429,
+      "index": 204,
+      "name": "Merak",
+      "biome": "primordial_blue",
+      "sector": 35
+    },
+    "319528443": {
+      "settingsHash": 319528443,
+      "index": 205,
+      "name": "Merga IV",
+      "biome": "swamp_haunted",
+      "sector": 35
+    },
+    "1805868079": {
+      "settingsHash": 1805868079,
+      "index": 206,
+      "name": "Minchir",
+      "biome": "primordial_blue",
+      "sector": 36
+    },
+    "2174989502": {
+      "settingsHash": 2174989502,
+      "index": 207,
+      "name": "Mintoria",
+      "biome": "moor_base",
+      "sector": 36
+    },
+    "1125831687": {
+      "settingsHash": 1125831687,
+      "index": 208,
+      "name": "Mordia 9",
+      "biome": "primordial_purple",
+      "sector": 36
+    },
+    "2595930801": {
+      "settingsHash": 2595930801,
+      "index": 209,
+      "name": "Nabatea Secundus",
+      "biome": "swamp_base",
+      "sector": 37
+    },
+    "1644011282": {
+      "settingsHash": 1644011282,
+      "index": 210,
+      "name": "Navi VII",
+      "biome": "primordial_base",
+      "sector": 37
+    },
+    "301092871": {
+      "settingsHash": 301092871,
+      "index": 211,
+      "name": "Nivel 43",
+      "biome": "primordial_dead",
+      "sector": 38
+    },
+    "1344035939": {
+      "settingsHash": 1344035939,
+      "index": 212,
+      "name": "Oshaune",
+      "biome": "bug_hiveworld",
+      "sector": 38
+    },
+    "2798506372": {
+      "settingsHash": 2798506372,
+      "index": 213,
+      "name": "Overgoe Prime",
+      "biome": "moor_red",
+      "sector": 38
+    },
+    "2529588949": {
+      "settingsHash": 2529588949,
+      "index": 214,
+      "name": "Pandion-XXIV",
+      "biome": "primordial_dead",
+      "sector": 39
+    },
+    "2633633039": {
+      "settingsHash": 2633633039,
+      "index": 215,
+      "name": "Partion",
+      "biome": "moor_arid",
+      "sector": 39
+    },
+    "3575106066": {
+      "settingsHash": 3575106066,
+      "index": 216,
+      "name": "Peacock",
+      "biome": "primordial_blue",
+      "sector": 39
+    },
+    "1050117740": {
+      "settingsHash": 1050117740,
+      "index": 217,
+      "name": "Phact Bay",
+      "biome": "sandy_base",
+      "sector": 39
+    },
+    "1272337220": {
+      "settingsHash": 1272337220,
+      "index": 218,
+      "name": "Pherkad Secundus",
+      "biome": "swamp_base",
+      "sector": 40
+    },
+    "1029706994": {
+      "settingsHash": 1029706994,
+      "index": 219,
+      "name": "Polaris Prime",
+      "biome": "sandy_spiky",
+      "sector": 40
+    },
+    "4039961663": {
+      "settingsHash": 4039961663,
+      "index": 220,
+      "name": "Pollux 31",
+      "biome": "primordial_base",
+      "sector": 41
+    },
+    "3290149632": {
+      "settingsHash": 3290149632,
+      "index": 221,
+      "name": "Prasa",
+      "biome": "sandy_mineral",
+      "sector": 41
+    },
+    "3795087598": {
+      "settingsHash": 3795087598,
+      "index": 222,
+      "name": "Propus",
+      "biome": "sandy_base",
+      "sector": 41
+    },
+    "4053031948": {
+      "settingsHash": 4053031948,
+      "index": 223,
+      "name": "Ras Algethi",
+      "biome": "moor_tundra",
+      "sector": 41
+    },
+    "3659425534": {
+      "settingsHash": 3659425534,
+      "index": 224,
+      "name": "RD-4",
+      "biome": "sandy_moon",
+      "sector": 42
+    },
+    "433678065": {
+      "settingsHash": 433678065,
+      "index": 225,
+      "name": "Rogue 5",
+      "biome": "primordial_base",
+      "sector": 42
+    },
+    "1377257553": {
+      "settingsHash": 1377257553,
+      "index": 226,
+      "name": "Rirga Bay",
+      "biome": "sandy_acid",
+      "sector": 42
+    },
+    "264536752": {
+      "settingsHash": 264536752,
+      "index": 227,
+      "name": "Seasse",
+      "biome": "rift_base",
+      "sector": 42
+    },
+    "3709894755": {
+      "settingsHash": 3709894755,
+      "index": 228,
+      "name": "Senge 23",
+      "biome": "sandy_mineral",
+      "sector": 43
+    },
+    "449319042": {
+      "settingsHash": 449319042,
+      "index": 229,
+      "name": "Setia",
+      "biome": "swamp_haunted",
+      "sector": 43
+    },
+    "1531805760": {
+      "settingsHash": 1531805760,
+      "index": 230,
+      "name": "Shete",
+      "biome": "sandy_acid",
+      "sector": 27
+    },
+    "3472221087": {
+      "settingsHash": 3472221087,
+      "index": 231,
+      "name": "Siemnot",
+      "biome": "primordial_blue",
+      "sector": 27
+    },
+    "31903659": {
+      "settingsHash": 31903659,
+      "index": 232,
+      "name": "Sirius",
+      "biome": "sandy_moon",
+      "sector": 44
+    },
+    "728004013": {
+      "settingsHash": 728004013,
+      "index": 233,
+      "name": "Skat Bay",
+      "biome": "primordial_dead",
+      "sector": 44
+    },
+    "33972203": {
+      "settingsHash": 33972203,
+      "index": 234,
+      "name": "Spherion",
+      "biome": "primordial_base",
+      "sector": 45
+    },
+    "3339959103": {
+      "settingsHash": 3339959103,
+      "index": 235,
+      "name": "Stor Tha Prime",
+      "biome": "glacier_coldrocky",
+      "sector": 45
+    },
+    "3478070727": {
+      "settingsHash": 3478070727,
+      "index": 236,
+      "name": "Stout",
+      "biome": "moor_red",
+      "sector": 45
+    },
+    "1923795699": {
+      "settingsHash": 1923795699,
+      "index": 237,
+      "name": "Termadon",
+      "biome": "moor_base",
+      "sector": 45
+    },
+    "2658611086": {
+      "settingsHash": 2658611086,
+      "index": 238,
+      "name": "Tibit",
+      "biome": "primordial_purple",
+      "sector": 46
+    },
+    "2659689769": {
+      "settingsHash": 2659689769,
+      "index": 239,
+      "name": "Tien Kwan",
+      "biome": "glacier_tienkwan",
+      "sector": 46
+    },
+    "1049999007": {
+      "settingsHash": 1049999007,
+      "index": 240,
+      "name": "Troost",
+      "biome": "primordial_dead",
+      "sector": 46
+    },
+    "2216912817": {
+      "settingsHash": 2216912817,
+      "index": 241,
+      "name": "Ubanea",
+      "biome": "moor_red",
+      "sector": 46
+    },
+    "260933067": {
+      "settingsHash": 260933067,
+      "index": 242,
+      "name": "Ustotu",
+      "biome": "sandy_spiky",
+      "sector": 48
+    },
+    "230950549": {
+      "settingsHash": 230950549,
+      "index": 243,
+      "name": "Vandalon IV",
+      "biome": "glacier_base",
+      "sector": 48
+    },
+    "17046409": {
+      "settingsHash": 17046409,
+      "index": 244,
+      "name": "Varylia 5",
+      "biome": "moor_base",
+      "sector": 49
+    },
+    "3825459240": {
+      "settingsHash": 3825459240,
+      "index": 245,
+      "name": "Wasat",
+      "biome": "sandy_acid",
+      "sector": 49
+    },
+    "229350423": {
+      "settingsHash": 229350423,
+      "index": 246,
+      "name": "Vega Bay",
+      "biome": "glacier_base",
+      "sector": 50
+    },
+    "1554138344": {
+      "settingsHash": 1554138344,
+      "index": 247,
+      "name": "Wezen",
+      "biome": "moor_arid",
+      "sector": 50
+    },
+    "1826401325": {
+      "settingsHash": 1826401325,
+      "index": 248,
+      "name": "Vindemitarix Prime",
+      "biome": "primordial_purple",
+      "sector": 50
+    },
+    "2165203458": {
+      "settingsHash": 2165203458,
+      "index": 249,
+      "name": "X-45",
+      "biome": "swamp_base",
+      "sector": 50
+    },
+    "714233297": {
+      "settingsHash": 714233297,
+      "index": 250,
+      "name": "Yed Prior",
+      "biome": "moor_red",
+      "sector": 35
+    },
+    "252504470": {
+      "settingsHash": 252504470,
+      "index": 251,
+      "name": "Zefia",
+      "biome": "primordial_purple",
+      "sector": 35
+    },
+    "2360232252": {
+      "settingsHash": 2360232252,
+      "index": 252,
+      "name": "Zosma",
+      "biome": "sandy_moon",
+      "sector": 51
+    },
+    "1524642040": {
+      "settingsHash": 1524642040,
+      "index": 253,
+      "name": "Zzaniah Prime",
+      "biome": "sandy_base",
+      "sector": 51
+    },
+    "3789806846": {
+      "settingsHash": 3789806846,
+      "index": 254,
+      "name": "Skitter",
+      "biome": "swamp_haunted",
+      "sector": 52
+    },
+    "3809134104": {
+      "settingsHash": 3809134104,
+      "index": 255,
+      "name": "Euphoria III",
+      "biome": "sandy_moon",
+      "sector": 52
+    },
+    "4020204519": {
+      "settingsHash": 4020204519,
+      "index": 256,
+      "name": "Diaspora X",
+      "biome": "sandy_base",
+      "sector": 53
+    },
+    "1588671273": {
+      "settingsHash": 1588671273,
+      "index": 257,
+      "name": "Gemstone Bluffs",
+      "biome": "moor_base",
+      "sector": 53
+    },
+    "843081973": {
+      "settingsHash": 843081973,
+      "index": 258,
+      "name": "Zagon Prime",
+      "biome": "bug_hiveworld",
+      "sector": 53
+    },
+    "3966660905": {
+      "settingsHash": 3966660905,
+      "index": 259,
+      "name": "Omicron",
+      "biome": "bug_hiveworld",
+      "sector": 53
+    },
+    "3923589145": {
+      "settingsHash": 3923589145,
+      "index": 260,
+      "name": "Cyberstan",
+      "biome": "cyberstan",
+      "sector": 49
+    },
+    "3487417548": {
+      "settingsHash": 3487417548,
+      "index": 261,
+      "name": "Fury",
+      "biome": "magma_base",
+      "sector": 0
+    },
+    "1143730827": {
+      "settingsHash": 1143730827,
+      "index": 262,
+      "name": "K",
+      "biome": "magma_base",
+      "sector": 0
+    },
+    "3117259984": {
+      "settingsHash": 3117259984,
+      "index": 264,
+      "name": "New Insight",
+      "biome": "magma_base",
+      "sector": 0
+    },
+    "3060137094": {
+      "settingsHash": 3060137094,
+      "index": 265,
+      "name": "Wayward",
+      "biome": "magma_base",
+      "sector": 0
+    },
+    "1316898847": {
+      "settingsHash": 1316898847,
+      "index": 266,
+      "name": "Mox",
+      "biome": "magma_base",
+      "sector": 0
+    },
+    "3844933373": {
+      "settingsHash": 3844933373,
+      "index": 267,
+      "name": "Big Rock",
+      "biome": "oasis_base",
+      "sector": 0
+    },
+    "1653510998": {
+      "settingsHash": 1653510998,
+      "index": 268,
+      "name": "Luxuriant",
+      "biome": "deciduous_base",
+      "sector": 0
+    },
+    "224163544": {
+      "settingsHash": 224163544,
+      "index": 269,
+      "name": "Brilliance",
+      "biome": "deciduous_base",
+      "sector": 0
+    },
+    "2807946366": {
+      "settingsHash": 2807946366,
+      "index": 270,
+      "name": "Fronteria",
+      "biome": "oasis_base",
+      "sector": 0
+    },
+    "2871915822": {
+      "settingsHash": 2871915822,
+      "index": 271,
+      "name": "Zygos",
+      "biome": "oasis_base",
+      "sector": 0
+    },
+    "1367796466": {
+      "settingsHash": 1367796466,
+      "index": 272,
+      "name": "Basquine VIII",
+      "biome": "deciduous_autumn",
+      "sector": 0
+    },
+    "1616302990": {
+      "settingsHash": 1616302990,
+      "index": 273,
+      "name": "Alderidge Cove",
+      "biome": "primordial_dead",
+      "sector": 43
+    },
+    "352961341": {
+      "settingsHash": 352961341,
+      "index": -1,
+      "name": "Meridian Iia",
+      "biome": "glacier_base",
+      "sector": -1
+    },
+    "3064614513": {
+      "settingsHash": 3064614513,
+      "index": -1,
+      "name": "The Bug Quarantine",
+      "biome": "sandy_acid",
+      "sector": -1
+    },
+    "4130121765": {
+      "settingsHash": 4130121765,
+      "index": -1,
+      "name": "Arlia",
+      "biome": "primordial_blue",
+      "sector": -1
+    },
+    "1569522965": {
+      "settingsHash": 1569522965,
+      "index": -1,
+      "name": "Adhafera Secundus",
+      "biome": "primordial_purple",
+      "sector": -1
+    },
+    "641745001": {
+      "settingsHash": 641745001,
+      "index": -1,
+      "name": "Aladfar Cxi",
+      "biome": "primordial_base",
+      "sector": -1
+    },
+    "36406352": {
+      "settingsHash": 36406352,
+      "index": -1,
+      "name": "Chara",
+      "biome": "sandy_spiky",
+      "sector": -1
+    },
+    "1096398337": {
+      "settingsHash": 1096398337,
+      "index": -1,
+      "name": "Cursa",
+      "biome": "magma_base",
+      "sector": -1
+    },
+    "945664053": {
+      "settingsHash": 945664053,
+      "index": -1,
+      "name": "Errant",
+      "biome": "primordial_blue",
+      "sector": -1
+    },
+    "4231826668": {
+      "settingsHash": 4231826668,
+      "index": -1,
+      "name": "Karon Bay",
+      "biome": "magma_base",
+      "sector": -1
+    },
+    "1730154803": {
+      "settingsHash": 1730154803,
+      "index": -1,
+      "name": "Oroth",
+      "biome": "magma_base",
+      "sector": -1
+    },
+    "943068451": {
+      "settingsHash": 943068451,
+      "index": -1,
+      "name": "Hett",
+      "biome": "oasis_base",
+      "sector": -1
+    },
+    "539364379": {
+      "settingsHash": 539364379,
+      "index": -1,
+      "name": "Worthy I",
+      "biome": "coniferous_base",
+      "sector": -1
+    },
+    "2994862260": {
+      "settingsHash": 2994862260,
+      "index": -1,
+      "name": "Pine Tar",
+      "biome": "coniferous_base",
+      "sector": -1
+    },
+    "3757403334": {
+      "settingsHash": 3757403334,
+      "index": -1,
+      "name": "Lone",
+      "biome": "sandy_spiky",
+      "sector": -1
+    },
+    "3265059383": {
+      "settingsHash": 3265059383,
+      "index": -1,
+      "name": "Peony",
+      "biome": "sandy_acid",
+      "sector": -1
+    },
+    "3148797885": {
+      "settingsHash": 3148797885,
+      "index": -1,
+      "name": "Calefactoria",
+      "biome": "oasis_base",
+      "sector": -1
+    },
+    "1231236069": {
+      "settingsHash": 1231236069,
+      "index": -1,
+      "name": "Serendipity Xi",
+      "biome": "deciduous_autumn",
+      "sector": -1
+    },
+    "2542431771": {
+      "settingsHash": 2542431771,
+      "index": -1,
+      "name": "Bankability",
+      "biome": "primordial_blue",
+      "sector": -1
+    },
+    "563995798": {
+      "settingsHash": 563995798,
+      "index": -1,
+      "name": "Argentis",
+      "biome": "sandy_moon",
+      "sector": -1
+    },
+    "2426410233": {
+      "settingsHash": 2426410233,
+      "index": -1,
+      "name": "Probare",
+      "biome": "primordial_base",
+      "sector": -1
+    },
+    "1249196326": {
+      "settingsHash": 1249196326,
+      "index": -1,
+      "name": "Cygnia Iii",
+      "biome": "primordial_purple",
+      "sector": -1
+    },
+    "1486045487": {
+      "settingsHash": 1486045487,
+      "index": -1,
+      "name": "Kansas-287i",
+      "biome": "moor_red",
+      "sector": -1
+    },
+    "1108826348": {
+      "settingsHash": 1108826348,
+      "index": -1,
+      "name": "Columbidae",
+      "biome": "moor_arid",
+      "sector": -1
+    },
+    "3544477981": {
+      "settingsHash": 3544477981,
+      "index": -1,
+      "name": "Pipionem",
+      "biome": "moor_base",
+      "sector": -1
+    },
+    "2157554849": {
+      "settingsHash": 2157554849,
+      "index": -1,
+      "name": "Superioria LV",
+      "biome": "coniferous_base",
+      "sector": -1
+    },
+    "2792842826": {
+      "settingsHash": 2792842826,
+      "index": -1,
+      "name": "Tandem",
+      "biome": "glacier_base",
+      "sector": -1
+    },
+    "3118907831": {
+      "settingsHash": 3118907831,
+      "index": -1,
+      "name": "Retributary",
+      "biome": "glacier_coldrocky",
+      "sector": -1
+    },
+    "279293045": {
+      "settingsHash": 279293045,
+      "index": -1,
+      "name": "Defensible",
+      "biome": "sandy_spiky",
+      "sector": -1
+    },
+    "40826223": {
+      "settingsHash": 40826223,
+      "index": -1,
+      "name": "Watchdog 5",
+      "biome": "primordial_dead",
+      "sector": -1
+    },
+    "939299113": {
+      "settingsHash": 939299113,
+      "index": -1,
+      "name": "Aquila Xxxii",
+      "biome": "coniferous_base",
+      "sector": -1
+    },
+    "4060269695": {
+      "settingsHash": 4060269695,
+      "index": -1,
+      "name": "Eligible",
+      "biome": "moor_base",
+      "sector": -1
+    },
+    "2437002548": {
+      "settingsHash": 2437002548,
+      "index": -1,
+      "name": "Probability",
+      "biome": "primordial_dead",
+      "sector": -1
+    },
+    "3548580792": {
+      "settingsHash": 3548580792,
+      "index": -1,
+      "name": "Link B",
+      "biome": "moor_arid",
+      "sector": -1
+    },
+    "1640052698": {
+      "settingsHash": 1640052698,
+      "index": -1,
+      "name": "Hopeful",
+      "biome": "deciduous_base",
+      "sector": -1
+    },
+    "2995599666": {
+      "settingsHash": 2995599666,
+      "index": -1,
+      "name": "Bicep",
+      "biome": "magma_base",
+      "sector": -1
+    },
+    "662854011": {
+      "settingsHash": 662854011,
+      "index": -1,
+      "name": "Adrenal 8",
+      "biome": "magma_base",
+      "sector": -1
+    },
+    "666353454": {
+      "settingsHash": 666353454,
+      "index": -1,
+      "name": "New Wisdom",
+      "biome": "magma_base",
+      "sector": -1
+    },
+    "1586523119": {
+      "settingsHash": 1586523119,
+      "index": -1,
+      "name": "Terrene",
+      "biome": "deciduous_base",
+      "sector": -1
+    },
+    "3822560341": {
+      "settingsHash": 3822560341,
+      "index": -1,
+      "name": "Arability",
+      "biome": "deciduous_autumn",
+      "sector": -1
+    },
+    "1797727633": {
+      "settingsHash": 1797727633,
+      "index": -1,
+      "name": "Family-Friend",
+      "biome": "coniferous_base",
+      "sector": -1
+    },
+    "499915819": {
+      "settingsHash": 499915819,
+      "index": -1,
+      "name": "Nascence",
+      "biome": "coniferous_base",
+      "sector": -1
+    },
+    "1267519632": {
+      "settingsHash": 1267519632,
+      "index": -1,
+      "name": "Fledge",
+      "biome": "deciduous_base",
+      "sector": -1
+    },
+    "1344759552": {
+      "settingsHash": 1344759552,
+      "index": -1,
+      "name": "Sammelsurium",
+      "biome": "primordial_dead",
+      "sector": -1
+    },
+    "3791008976": {
+      "settingsHash": 3791008976,
+      "index": -1,
+      "name": "Ballot",
+      "biome": "sandy_mineral",
+      "sector": -1
+    },
+    "457459722": {
+      "settingsHash": 457459722,
+      "index": -1,
+      "name": "Resilience",
+      "biome": "sandy_base",
+      "sector": -1
+    },
+    "1556929234": {
+      "settingsHash": 1556929234,
+      "index": -1,
+      "name": "Gile",
+      "biome": "deciduous_autumn",
+      "sector": -1
+    },
+    "694418289": {
+      "settingsHash": 694418289,
+      "index": -1,
+      "name": "Lamb’s Patch",
+      "biome": "deciduous_base",
+      "sector": -1
+    },
+    "2076606288": {
+      "settingsHash": 2076606288,
+      "index": -1,
+      "name": "Frakeneeria",
+      "biome": "primordial_base",
+      "sector": -1
+    },
+    "2127508003": {
+      "settingsHash": 2127508003,
+      "index": -1,
+      "name": "Shirahama",
+      "biome": "sandy_spiky",
+      "sector": -1
+    },
+    "90283719": {
+      "settingsHash": 90283719,
+      "index": -1,
+      "name": "Andwell",
+      "biome": "deciduous_base",
+      "sector": -1
+    },
+    "357264243": {
+      "settingsHash": 357264243,
+      "index": -1,
+      "name": "LYNX LYNX",
+      "biome": "coniferous_base",
+      "sector": -1
+    },
+    "559027961": {
+      "settingsHash": 559027961,
+      "index": -1,
+      "name": "Almina Iv",
+      "biome": "moor_arid",
+      "sector": -1
+    },
+    "312754351": {
+      "settingsHash": 312754351,
+      "index": -1,
+      "name": "Auspice",
+      "biome": "deciduous_base",
+      "sector": -1
+    },
+    "3074955678": {
+      "settingsHash": 3074955678,
+      "index": -1,
+      "name": "Raysting",
+      "biome": "primordial_blue",
+      "sector": -1
+    },
+    "2473967507": {
+      "settingsHash": 2473967507,
+      "index": -1,
+      "name": "Nosser",
+      "biome": "sandy_moon",
+      "sector": -1
+    },
+    "835280806": {
+      "settingsHash": 835280806,
+      "index": -1,
+      "name": "Satellaria",
+      "biome": "moor_red",
+      "sector": -1
+    },
+    "2459737800": {
+      "settingsHash": 2459737800,
+      "index": -1,
+      "name": "Doublet Ii",
+      "biome": "primordial_base",
+      "sector": -1
+    },
+    "2974582451": {
+      "settingsHash": 2974582451,
+      "index": -1,
+      "name": "Generation",
+      "biome": "glacier_base",
+      "sector": -1
+    },
+    "635797345": {
+      "settingsHash": 635797345,
+      "index": -1,
+      "name": "Civility",
+      "biome": "coniferous_base",
+      "sector": -1
+    },
+    "3766232050": {
+      "settingsHash": 3766232050,
+      "index": -1,
+      "name": "Scutum Canis Lupus",
+      "biome": "moor_base",
+      "sector": -1
+    },
+    "4225545023": {
+      "settingsHash": 4225545023,
+      "index": -1,
+      "name": "Logisticae",
+      "biome": "glacier_base",
+      "sector": -1
+    },
+    "2956267651": {
+      "settingsHash": 2956267651,
+      "index": -1,
+      "name": "Stolthet",
+      "biome": "glacier_coldrocky",
+      "sector": -1
+    },
+    "4046521716": {
+      "settingsHash": 4046521716,
+      "index": -1,
+      "name": "Avila",
+      "biome": "oasis_base",
+      "sector": -1
+    },
+    "2872263469": {
+      "settingsHash": 2872263469,
+      "index": -1,
+      "name": "Mandilaria",
+      "biome": "oasis_base",
+      "sector": -1
+    },
+    "1317273314": {
+      "settingsHash": 1317273314,
+      "index": -1,
+      "name": "Embold",
+      "biome": "moor_tundra",
+      "sector": -1
+    },
+    "925874448": {
+      "settingsHash": 925874448,
+      "index": -1,
+      "name": "Lambast",
+      "biome": "moor_base",
+      "sector": -1
+    },
+    "1371866141": {
+      "settingsHash": 1371866141,
+      "index": -1,
+      "name": "Thrash Iv",
+      "biome": "moor_red",
+      "sector": -1
+    },
+    "458291410": {
+      "settingsHash": 458291410,
+      "index": -1,
+      "name": "Miqé",
+      "biome": "primordial_dead",
+      "sector": -1
+    },
+    "4135188973": {
+      "settingsHash": 4135188973,
+      "index": -1,
+      "name": "Tor E",
+      "biome": "oasis_base",
+      "sector": -1
+    },
+    "3625072224": {
+      "settingsHash": 3625072224,
+      "index": -1,
+      "name": "Phantom 1",
+      "biome": "primordial_purple",
+      "sector": -1
+    },
+    "792705719": {
+      "settingsHash": 792705719,
+      "index": -1,
+      "name": "Spoyle",
+      "biome": "primordial_base",
+      "sector": -1
+    },
+    "4283005796": {
+      "settingsHash": 4283005796,
+      "index": -1,
+      "name": "Wile",
+      "biome": "glacier_base",
+      "sector": -1
+    },
+    "642854317": {
+      "settingsHash": 642854317,
+      "index": -1,
+      "name": "Kansas-343i",
+      "biome": "moor_red",
+      "sector": -1
+    },
+    "957113655": {
+      "settingsHash": 957113655,
+      "index": -1,
+      "name": "Piea",
+      "biome": "moor_red",
+      "sector": -1
+    },
+    "1538639048": {
+      "settingsHash": 1538639048,
+      "index": -1,
+      "name": "Husaria",
+      "biome": "moor_base",
+      "sector": -1
+    },
+    "1260646010": {
+      "settingsHash": 1260646010,
+      "index": -1,
+      "name": "Ostehovel",
+      "biome": "sandy_base",
+      "sector": -1
+    },
+    "1555026222": {
+      "settingsHash": 1555026222,
+      "index": -1,
+      "name": "Minerva",
+      "biome": "oasis_base",
+      "sector": -1
+    },
+    "23809574": {
+      "settingsHash": 23809574,
+      "index": -1,
+      "name": "Kansas-349i",
+      "biome": "sandy_spiky",
+      "sector": -1
+    },
+    "1003822495": {
+      "settingsHash": 1003822495,
+      "index": -1,
+      "name": "Pestis",
+      "biome": "primordial_base",
+      "sector": -1
+    },
+    "1655533806": {
+      "settingsHash": 1655533806,
+      "index": -1,
+      "name": "Amittere",
+      "biome": "sandy_mineral",
+      "sector": -1
+    },
+    "440274794": {
+      "settingsHash": 440274794,
+      "index": -1,
+      "name": "Vinge",
+      "biome": "sandy_base",
+      "sector": -1
+    },
+    "280001593": {
+      "settingsHash": 280001593,
+      "index": -1,
+      "name": "Kansas-353i",
+      "biome": "moor_base",
+      "sector": -1
+    },
+    "912524883": {
+      "settingsHash": 912524883,
+      "index": -1,
+      "name": "Korv",
+      "biome": "sandy_moon",
+      "sector": -1
+    },
+    "600607323": {
+      "settingsHash": 600607323,
+      "index": -1,
+      "name": "Conlon Colony",
+      "biome": "primordial_blue",
+      "sector": -1
+    },
+    "3556243646": {
+      "settingsHash": 3556243646,
+      "index": -1,
+      "name": "Deecon",
+      "biome": "sandy_spiky",
+      "sector": -1
+    },
+    "3512826333": {
+      "settingsHash": 3512826333,
+      "index": -1,
+      "name": "Svitjod",
+      "biome": "sandy_acid",
+      "sector": -1
+    },
+    "2453835909": {
+      "settingsHash": 2453835909,
+      "index": -1,
+      "name": "Kansas-358i",
+      "biome": "sandy_mineral",
+      "sector": -1
+    },
+    "4238148929": {
+      "settingsHash": 4238148929,
+      "index": -1,
+      "name": "Vacca",
+      "biome": "sandy_base",
+      "sector": -1
+    },
+    "1597423767": {
+      "settingsHash": 1597423767,
+      "index": -1,
+      "name": "Otur",
+      "biome": "sandy_acid",
+      "sector": -1
+    },
+    "36651719": {
+      "settingsHash": 36651719,
+      "index": -1,
+      "name": "Sirius Ii",
+      "biome": "sandy_moon",
+      "sector": -1
+    },
+    "1550292276": {
+      "settingsHash": 1550292276,
+      "index": -1,
+      "name": "Hammarby",
+      "biome": "sandy_moon",
+      "sector": -1
+    },
+    "2371182145": {
+      "settingsHash": 2371182145,
+      "index": -1,
+      "name": "Momo-1",
+      "biome": "primordial_base",
+      "sector": -1
+    },
+    "3781016616": {
+      "settingsHash": 3781016616,
+      "index": -1,
+      "name": "Lindome",
+      "biome": "glacier_base",
+      "sector": -1
+    },
+    "745407869": {
+      "settingsHash": 745407869,
+      "index": -1,
+      "name": "Bohus",
+      "biome": "primordial_dead",
+      "sector": -1
+    },
+    "417099853": {
+      "settingsHash": 417099853,
+      "index": -1,
+      "name": "Nibiru",
+      "biome": "moor_base",
+      "sector": -1
+    },
+    "3634094425": {
+      "settingsHash": 3634094425,
+      "index": -1,
+      "name": "Gunnar",
+      "biome": "sandy_moon",
+      "sector": -1
+    },
+    "2281137684": {
+      "settingsHash": 2281137684,
+      "index": -1,
+      "name": "Kansas-369i",
+      "biome": "glacier_base",
+      "sector": -1
+    },
+    "10324412": {
+      "settingsHash": 10324412,
+      "index": -1,
+      "name": "Urectem",
+      "biome": "glacier_coldrocky",
+      "sector": -1
+    },
+    "3897302531": {
+      "settingsHash": 3897302531,
+      "index": -1,
+      "name": "Mönsterås Ii",
+      "biome": "primordial_base",
+      "sector": -1
+    },
+    "1387273604": {
+      "settingsHash": 1387273604,
+      "index": -1,
+      "name": "Monheim",
+      "biome": "deciduous_base",
+      "sector": -1
+    },
+    "2378790132": {
+      "settingsHash": 2378790132,
+      "index": -1,
+      "name": "Dunoonia",
+      "biome": "deciduous_autumn",
+      "sector": -1
+    },
+    "3084757731": {
+      "settingsHash": 3084757731,
+      "index": -1,
+      "name": "Payong",
+      "biome": "moor_base",
+      "sector": -1
+    },
+    "1669152006": {
+      "settingsHash": 1669152006,
+      "index": -1,
+      "name": "Pennybridge",
+      "biome": "coniferous_base",
+      "sector": -1
+    },
+    "2198453495": {
+      "settingsHash": 2198453495,
+      "index": -1,
+      "name": "Unknown System",
+      "biome": "primordial_base",
+      "sector": -1
+    },
+    "3717376507": {
+      "settingsHash": 3717376507,
+      "index": -1,
+      "name": "Unregistered System",
+      "biome": "primordial_purple",
+      "sector": -1
+    },
+    "4169407650": {
+      "settingsHash": 4169407650,
+      "index": -1,
+      "name": "Unmapped System",
+      "biome": "primordial_dead",
+      "sector": -1
+    },
+    "3638342106": {
+      "settingsHash": 3638342106,
+      "index": -1,
+      "name": "Ruined System",
+      "biome": "moor_tundra",
+      "sector": -1
+    },
+    "1321031843": {
+      "settingsHash": 1321031843,
+      "index": -1,
+      "name": "Anomalous System",
+      "biome": "glacier_base",
+      "sector": -1
+    },
+    "1557881004": {
+      "settingsHash": 1557881004,
+      "index": -1,
+      "name": "Concealed System",
+      "biome": "moor_arid",
+      "sector": -1
+    },
+    "4097379787": {
+      "settingsHash": 4097379787,
+      "index": -1,
+      "name": "E-710-Rich System",
+      "biome": "moor_tundra",
+      "sector": -1
+    },
+    "1606226206": {
+      "settingsHash": 1606226206,
+      "index": -1,
+      "name": "Annihilated System",
+      "biome": "moor_red",
+      "sector": -1
+    },
+    "1406573183": {
+      "settingsHash": 1406573183,
+      "index": -1,
+      "name": "Vital System",
+      "biome": "moor_base",
+      "sector": -1
+    },
+    "3315509438": {
+      "settingsHash": 3315509438,
+      "index": -1,
+      "name": "Uninhabitable System",
+      "biome": "sandy_base",
+      "sector": -1
+    },
+    "721718208": {
+      "settingsHash": 721718208,
+      "index": -1,
+      "name": "UVP Alpha",
+      "biome": "deciduous_crimson",
+      "sector": -1
+    },
+    "3860924039": {
+      "settingsHash": 3860924039,
+      "index": -1,
+      "name": "UVP Beta",
+      "biome": "primordial_dead",
+      "sector": -1
+    },
+    "3756972388": {
+      "settingsHash": 3756972388,
+      "index": -1,
+      "name": "UVP Gamma",
+      "biome": "oasis_bleak",
+      "sector": -1
+    },
+    "2621050767": {
+      "settingsHash": 2621050767,
+      "index": -1,
+      "name": "UVP Delta",
+      "biome": "swamp_haunted",
+      "sector": -1
+    },
+    "2627332343": {
+      "settingsHash": 2627332343,
+      "index": -1,
+      "name": "Kansas-390i",
+      "biome": "cyberstan",
+      "sector": -1
+    },
+    "1838271887": {
+      "settingsHash": 1838271887,
+      "index": -1,
+      "name": "Kansas-391i",
+      "biome": "glacier_base",
+      "sector": -1
+    },
+    "638110234": {
+      "settingsHash": 638110234,
+      "index": -1,
+      "name": "Kansas-392i",
+      "biome": "glacier_coldrocky",
+      "sector": -1
+    },
+    "2442303658": {
+      "settingsHash": 2442303658,
+      "index": -1,
+      "name": "Kansas-436i",
+      "biome": "bug_hiveworld",
+      "sector": -1
+    },
+    "4125730959": {
+      "settingsHash": 4125730959,
+      "index": -1,
+      "name": "Kansas-394i",
+      "biome": "magma_base",
+      "sector": -1
+    },
+    "1640169839": {
+      "settingsHash": 1640169839,
+      "index": -1,
+      "name": "Kansas-395i",
+      "biome": "oasis_base",
+      "sector": -1
+    },
+    "293058952": {
+      "settingsHash": 293058952,
+      "index": -1,
+      "name": "Kansas-396i",
+      "biome": "oasis_bleak",
+      "sector": -1
+    },
+    "4065501043": {
+      "settingsHash": 4065501043,
+      "index": -1,
+      "name": "Kansas-397i",
+      "biome": "sandy_acid",
+      "sector": -1
+    },
+    "726381918": {
+      "settingsHash": 726381918,
+      "index": -1,
+      "name": "Kansas-398i",
+      "biome": "sandy_base",
+      "sector": -1
+    },
+    "1019569949": {
+      "settingsHash": 1019569949,
+      "index": -1,
+      "name": "Kansas-399i",
+      "biome": "sandy_base",
+      "sector": -1
+    },
+    "1657395632": {
+      "settingsHash": 1657395632,
+      "index": -1,
+      "name": "Kansas-400i",
+      "biome": "sandy_mineral",
+      "sector": -1
+    },
+    "3822147543": {
+      "settingsHash": 3822147543,
+      "index": -1,
+      "name": "Kansas-401i",
+      "biome": "sandy_moon",
+      "sector": -1
+    },
+    "205330875": {
+      "settingsHash": 205330875,
+      "index": -1,
+      "name": "Kansas-402i",
+      "biome": "sandy_spiky",
+      "sector": -1
+    },
+    "2100206204": {
+      "settingsHash": 2100206204,
+      "index": -1,
+      "name": "Kansas-403i",
+      "biome": "coniferous_base",
+      "sector": -1
+    },
+    "3973023754": {
+      "settingsHash": 3973023754,
+      "index": -1,
+      "name": "Kansas-404i",
+      "biome": "deciduous_autumn",
+      "sector": -1
+    },
+    "839493170": {
+      "settingsHash": 839493170,
+      "index": -1,
+      "name": "Kansas-405i",
+      "biome": "deciduous_base",
+      "sector": -1
+    },
+    "2612672794": {
+      "settingsHash": 2612672794,
+      "index": -1,
+      "name": "Kansas-406i",
+      "biome": "deciduous_crimson",
+      "sector": -1
+    },
+    "3450067110": {
+      "settingsHash": 3450067110,
+      "index": -1,
+      "name": "Kansas-407i",
+      "biome": "moor_arid",
+      "sector": -1
+    },
+    "1389686288": {
+      "settingsHash": 1389686288,
+      "index": -1,
+      "name": "Kansas-408i",
+      "biome": "moor_base",
+      "sector": -1
+    },
+    "902359892": {
+      "settingsHash": 902359892,
+      "index": -1,
+      "name": "Kansas-409i",
+      "biome": "moor_red",
+      "sector": -1
+    },
+    "584272944": {
+      "settingsHash": 584272944,
+      "index": -1,
+      "name": "Kansas-410i",
+      "biome": "moor_tundra",
+      "sector": -1
+    },
+    "4044540362": {
+      "settingsHash": 4044540362,
+      "index": -1,
+      "name": "Kansas-411i",
+      "biome": "primordial_base",
+      "sector": -1
+    },
+    "3553482976": {
+      "settingsHash": 3553482976,
+      "index": -1,
+      "name": "Meridia",
+      "biome": "primordial_base",
+      "sector": -1
+    },
+    "1383762373": {
+      "settingsHash": 1383762373,
+      "index": -1,
+      "name": "Kansas-413i",
+      "biome": "primordial_blue",
+      "sector": -1
+    },
+    "1341206145": {
+      "settingsHash": 1341206145,
+      "index": -1,
+      "name": "Kansas-414i",
+      "biome": "primordial_dead",
+      "sector": -1
+    },
+    "752016260": {
+      "settingsHash": 752016260,
+      "index": -1,
+      "name": "Kansas-415i",
+      "biome": "primordial_purple",
+      "sector": -1
+    },
+    "3465898597": {
+      "settingsHash": 3465898597,
+      "index": -1,
+      "name": "Kansas-416i",
+      "biome": "rift_base",
+      "sector": -1
+    },
+    "46552461": {
+      "settingsHash": 46552461,
+      "index": -1,
+      "name": "Kansas-417i",
+      "biome": "swamp_base",
+      "sector": -1
+    },
+    "2539875090": {
+      "settingsHash": 2539875090,
+      "index": -1,
+      "name": "Kansas-418i",
+      "biome": "swamp_haunted",
+      "sector": -1
+    },
+    "3849614898": {
+      "settingsHash": 3849614898,
+      "index": -1,
+      "name": "Kansas-419i",
+      "biome": "superearth",
+      "sector": -1
+    },
+    "1893896155": {
+      "settingsHash": 1893896155,
+      "index": -1,
+      "name": "Mars",
+      "biome": "sandy_tutorial",
+      "sector": -1
+    },
+    "982935642": {
+      "settingsHash": 982935642,
+      "index": -1,
+      "name": "UNDISCLOSED LOCATION",
+      "biome": "primordial_tutorial",
+      "sector": -1
+    },
+    "3990945853": {
+      "settingsHash": 3990945853,
+      "index": -1,
+      "name": "Kansas-422i",
+      "biome": "deciduous_autumn",
+      "sector": -1
+    },
+    "3828432844": {
+      "settingsHash": 3828432844,
+      "index": -1,
+      "name": "Kansas-423i",
+      "biome": "deciduous_base",
+      "sector": -1
+    },
+    "2740025151": {
+      "settingsHash": 2740025151,
+      "index": -1,
+      "name": "Kansas-424i",
+      "biome": "oasis_base",
+      "sector": -1
+    },
+    "2391509311": {
+      "settingsHash": 2391509311,
+      "index": -1,
+      "name": "Kansas-425i",
+      "biome": "deciduous_autumn",
+      "sector": -1
+    },
+    "3685868535": {
+      "settingsHash": 3685868535,
+      "index": -1,
+      "name": "Kansas-426i",
+      "biome": "deciduous_base",
+      "sector": -1
+    },
+    "2748759648": {
+      "settingsHash": 2748759648,
+      "index": -1,
+      "name": "Kansas-427i",
+      "biome": "oasis_base",
+      "sector": -1
+    },
+    "4172053662": {
+      "settingsHash": 4172053662,
+      "index": -1,
+      "name": "Kansas-428i",
+      "biome": "deciduous_crimson",
+      "sector": -1
+    },
+    "2174423588": {
+      "settingsHash": 2174423588,
+      "index": -1,
+      "name": "Kansas-429i",
+      "biome": "deciduous_base",
+      "sector": -1
+    },
+    "703506709": {
+      "settingsHash": 703506709,
+      "index": -1,
+      "name": "Kansas-430i",
+      "biome": "oasis_bleak",
+      "sector": -1
+    },
+    "3843221315": {
+      "settingsHash": 3843221315,
+      "index": -1,
+      "name": "Void Source Planet",
+      "biome": "rift_base",
+      "sector": -1
+    },
+    "1413440747": {
+      "settingsHash": 1413440747,
+      "index": -1,
+      "name": "Kansas-432i",
+      "biome": "bug_hiveworld",
+      "sector": -1
+    },
+    "1234567890": {
+      "settingsHash": 1234567890,
+      "index": -1,
+      "name": "Vilse",
+      "biome": "im_lost",
+      "sector": -1,
+      "terminal": ""
+    }
+  }
+}
