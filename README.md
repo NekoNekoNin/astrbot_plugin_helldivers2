@@ -14,6 +14,12 @@
 - 通过本地游戏同字符串 ID 核对已收录的官方简中名称，缺项时继续按原名或型号查阅。
 - 读取官方 Steam 更新、银河战争实况与历史，区分解放、防御和区域战役进度。
 
+## 支持平台与标签
+
+支持 QQ / OneBot v11（`aiocqhttp`，如 NapCat）与 AstrBot 内置 WebChat（`webchat`）。市场平台字段表示消息适配器；当前声明按已接入和验收范围填写，其他平台尚未验收。
+
+标签：绝地潜兵2、游戏、Wiki、银河战争、数据查询。
+
 ## 安装
 
 在 AstrBot 的插件管理上传本插件发布 ZIP，或使用[本仓库地址](https://github.com/NekoNekoNin/astrbot_plugin_helldivers2)安装。内部插件名保持 `astrbot_plugin_helldivers2`，升级时沿用已有配置。元数据已绑定本仓库，更新时请核对版本与更新记录。

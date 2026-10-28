@@ -5,3 +5,12 @@ version: 1.0.5
 author: NekoNekoNin
 astrbot_version: '>=4.13.0'
 repo: https://github.com/NekoNekoNin/astrbot_plugin_helldivers2
+support_platforms:
+  - aiocqhttp
+  - webchat
+tags:
+  - 绝地潜兵2
+  - 游戏
+  - Wiki
+  - 银河战争
+  - 数据查询
